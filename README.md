@@ -192,5 +192,5 @@ Linux - /ˈlɪnʊks/ /li-ne-ke-si/ - 类Unix操作系统
 MinIO - /ˈmɪn.i.oʊ/ /min-ai-ou/ - 分布式对象存储系统
 Uber - /ˈuːbər/ /wu-ber/ - 优步, 出行服务公司
 Ubuntu - /ʊˈbʊntuː/ /wu-ben-tu/ - 乌班图, Linux发行版
-crawler - /ˈkrɔːlər/ /ke-rao-ler/ 爬虫
+crawler - /ˈkrɔːlər/ /ke-rao-ler/ - 爬虫
 ```
