@@ -207,6 +207,7 @@ MinIO - /ˈmɪn.i.oʊ/ /min-ai-ou/ - 分布式对象存储系统
 Uber - /ˈuːbər/ /wu-ber/ - 优步, 出行服务公司
 Ubuntu - /ʊˈbʊntuː/ /wu-ben-tu/ - 乌班图, Linux发行版
 crawler - /ˈkrɔːlər/ /ke-rao-ler/ - 爬虫
+tenet - /'tenit/ /te-ne-t/ - 信条(信仰的条文)
 ```
 
 > 中文词 - 英文词 - [英式发音 拼音发音] [美式发音 拼音发音] 
