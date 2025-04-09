@@ -166,7 +166,7 @@ Z:
 转(zhuàn)椅 - zhuǎn椅
 字帖(tiè) - 字tiē / 字tiě
 叱咤(zhà)风云 - 叱chà风云
-作(zuō)坊 - zuò坊
+作(zuō)坊(fang) - zuò坊
 栉(zhì)比 - jié比 - "栉"梳理
 箴(zhēn)言 - jiān言
 砧(zhēn)板 - zhān板
