@@ -195,20 +195,44 @@ Z:
 
 ## English
 
-> 英文词 - 拼音拟音 - [英文解释] - 中文解释
+
+
+| 单元音 | 示例 | 双元音 | 示例 | 清辅音 | 示例 | 浊辅音 | 示例 |
+|------|------|------|------|------|------|------|------|
+| iː | t**ea** | eɪ | d**ay** | p | **p**en | b | **b**ook |
+| ɪ | s**i**t | əʊ / oʊ | g**o** | t | **t**en | d | **d**esk |
+| e | r**e**d | ɪə / ɪr | b**eer** | k | **k**ey | g | **g**et |
+| æ | **a**pple | aɪ | p**ie** | f | **f**un | v | **v**ery |
+| ɑː | sp**a** | aʊ | h**ow** | s | **s**ay | z | **z**oo |
+| ɔː | f**ou**r | ɔɪ | b**oy** | θ | **th**ank | ð | **th**is |
+| ʊ | p**u**t | eə / er | c**are** | ʃ | **sh**ort | ʒ | plea**s**ure |
+| uː | t**oo** | ʊə / ʊr | t**our** | tʃ | **ch**air | dʒ | **j**ump |
+| ʌ | c**u**p | | | h | **h**a | m | **m**y |
+| ə | pand**a**  | | | | | n | **n**ame |
+| ɜː / ɜːr | b**ir**d | | | | | ŋ | ki**ng** |
+| ə / ər | moth**er** | | | | | l | **l**ike |
+| ɒ / ɑː | r**o**ck | | | | | r | **r**un |
+| | | | | | | j | **y**ou |
+| | | | | | | w | **w**hy |
+
+> 英文词 - [英文发音] - [英文解释] - [中文解释]
 
 ```
-pip - /pi-pu/ - Pip Installs Packages - Python包管理工具
-NiFi - /nai-fai/ - 实时数据流处理系统
-grok - /ge-ruo-ke/ - v. 通过感觉意会
-beaver - /bi-ver/ - 河狸
-Linux - /li-ne-ke-si/ /li-na-ke-si/ - 类Unix操作系统
-MinIO - /min-ai-ou/ - 分布式对象存储系统
-Uber - /wu-ber/ - 优步, 出行服务公司
-Ubuntu - /wu-ben-tu/ - 乌班图, Linux发行版
-crawler - /ke-rao-ler/ - 爬虫
-tenet - /tei-nei-te/ - 信条(信仰的条文)
-coupon - /ku-pang/ - 优惠券
+pip - pɪp - Pip Installs Packages - Python包管理工具
+NiFi - ˈnaɪfaɪ  - 实时数据流处理系统
+NIKE - ˈnaɪkiː - 耐克
+grok - ɡrɒk / ɡrɑːk - 通过感觉意会
+beaver - ˈbiːvər - 河狸
+Linus - ˈlaɪnəs - 林纳斯
+Linux - ˈlɪnəks / ˈlaɪnəks / ˈlaɪnʌks - 类Unix操作系统
+MinIO - mɪn ˈaɪoʊ - 分布式对象存储系统
+Uber - ˈuːbər - 优步, 出行服务公司
+Ubuntu - ʊˈbʊntuː - 乌班图, Linux发行版
+crawler - ˈkrɔːlər - 爬虫
+tenet - ˈtenɪt - 信条(信仰的条文)
+coupon - ˈkuːpɒn / ˈkuːpɑːn - 优惠券
+Damon - ˈdeɪmən
+Simon - ˈsaɪmən
 ```
 
 > 中文词 - 英文词 - [拼音拟音]
