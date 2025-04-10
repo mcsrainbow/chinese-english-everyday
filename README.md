@@ -202,7 +202,7 @@ Z:
 | e        | r**e**d    | ɪə / ɪr | b**eer** | k      | **c**at   | g      | **g**et      |
 | æ        | **a**pple  | aɪ      | p**ie**  | f      | **f**un   | v      | **v**ery     |
 | ɑː       | sp**a**    | aʊ      | h**ow**  | s      | **s**ay   | z      | **z**oo      |
-| ɔː       | f**ou**r   | ɔɪ      | b**oy**  | θ      | **th**ank | ð      | **th**is     |
+| ɔː       | s**aw**    | ɔɪ      | b**oy**  | θ      | **th**ank | ð      | **th**is     |
 | ʊ        | p**u**t    | eə / er | c**are** | ʃ      | **sh**ort | ʒ      | plea**s**ure |
 | uː       | t**oo**    | ʊə / ʊr | t**our** | tʃ     | **ch**air | dʒ     | **j**ump     |
 | ʌ        | c**u**p    |         |          | h      | **h**i    | m      | **m**y       |
