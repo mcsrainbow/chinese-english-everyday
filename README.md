@@ -2,7 +2,7 @@
 
 ## 中文
 
-> 中文词 - [误读发音] - [中文解释]
+> 中文发音 - 误读发音 - [中文解释]
 
 ```
 a ā á ǎ à   
@@ -195,22 +195,23 @@ Z:
 
 ## English
 
-> 英文词 - [英式发音 拼音发音] [美式发音 拼音发音] - [英文解释] - [中文解释]
+> 英文词 - 拼音拟音 - [英文解释] - 中文解释
 
 ```
-pip - /pɪp/ /pi-pu/ - Pip Installs Packages - Python包管理工具
-NiFi - /ˈnaɪfaɪ/ /nai-fai/ - 实时数据流处理系统
-grok - /ɡrɒk/ /g-ro-ke/ /ɡrɑːk/ /g-ra-ke/ - v. 通过感觉意会
-beaver - /ˈbiːvər/ /bi-ver/ - 河狸
-Linux - /ˈlɪnʊks/ /li-ne-ke-si/ - 类Unix操作系统
-MinIO - /ˈmɪn.i.oʊ/ /min-ai-ou/ - 分布式对象存储系统
-Uber - /ˈuːbər/ /wu-ber/ - 优步, 出行服务公司
-Ubuntu - /ʊˈbʊntuː/ /wu-ben-tu/ - 乌班图, Linux发行版
-crawler - /ˈkrɔːlər/ /ke-rao-ler/ - 爬虫
-tenet - /'tenit/ /te-ne-t/ - 信条(信仰的条文)
+pip - /pi-pu/ - Pip Installs Packages - Python包管理工具
+NiFi - /nai-fai/ - 实时数据流处理系统
+grok - /ge-ruo-ke/ - v. 通过感觉意会
+beaver - /bi-ver/ - 河狸
+Linux - /li-ne-ke-si/ /li-na-ke-si/ - 类Unix操作系统
+MinIO - /min-ai-ou/ - 分布式对象存储系统
+Uber - /wu-ber/ - 优步, 出行服务公司
+Ubuntu - /wu-ben-tu/ - 乌班图, Linux发行版
+crawler - /ke-rao-ler/ - 爬虫
+tenet - /tei-nei-te/ - 信条(信仰的条文)
+coupon - /ku-pang/ - 优惠券
 ```
 
-> 中文词 - 英文词 - [英式发音 拼音发音] [美式发音 拼音发音] 
+> 中文词 - 英文词 - [拼音拟音]
 
 ```
 ```
