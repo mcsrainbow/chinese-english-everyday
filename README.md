@@ -207,7 +207,7 @@ Z:
 | ɔː | f**ou**r | ɔɪ | b**oy** | θ | **th**ank | ð | **th**is |
 | ʊ | p**u**t | eə / er | c**are** | ʃ | **sh**ort | ʒ | plea**s**ure |
 | uː | t**oo** | ʊə / ʊr | t**our** | tʃ | **ch**air | dʒ | **j**ump |
-| ʌ | c**u**p | | | h | **h**a | m | **m**y |
+| ʌ | c**u**p | | | h | **h**i | m | **m**y |
 | ə | pand**a**  | | | | | n | **n**ame |
 | ɜː / ɜːr | b**ir**d | | | | | ŋ | ki**ng** |
 | ə / ər | moth**er** | | | | | l | **l**ike |
