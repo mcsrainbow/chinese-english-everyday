@@ -262,44 +262,44 @@ bash - 猛击
 shell - 贝壳
 command - 指挥;命令
 script - 剧本;手稿
-alias - 化名;别名
+alias - ˈeɪliəs - 化名;别名
 terminal - 终点站
-console - 控制台;仪表盘
+console - kənˈsoʊl - 控制台;仪表盘
 vim - 活力
 nano - 纳米
 tar - 焦油
 zip - 拉链
 cat - 猫
-git - 饭桶;无用的人
+git - ɡɪt - 饭桶;无用的人
 branch - 树枝
-fork - 餐叉
-blob - 滴(液体)
-clone - 克隆
+fork - fɔːrk - 餐叉
+blob - blɒb / blɑːb - 滴(液体)
+clone - kloʊn - 克隆
 commit - 承诺
 shard - 碎片
-hook - 钩
+hook - hʊk - 钩
 build - 建造
 release - 释放
 artifact - 手工艺品
-cache - 隐藏处
+cache - kæʃ - 隐藏处
 buffer - (防撞)缓冲物
 repository - 贮藏室
-mirror - 镜子
-trigger - (枪械的)扳机
-pipeline - 输送管道
+mirror - ˈmɪrər - 镜子
+trigger - ˈtrɪɡər - (枪械的)扳机
+pipeline - ˈpaɪplaɪn - 输送管道
 stream - 小溪
 flux - 流出;熔化
-drone - 雄蜂;无人机
-parcel - 包裹
+drone - droʊn - 雄蜂;无人机
+parcel - ˈpɑːrs(ə)l - 包裹
 python - 巨蟒
-pip - 种子
+pip - pɪp - 种子
 ruby - 红宝石
 java - 爪哇岛(印度尼西亚);咖啡
 jar - 罐子
 war - 战争
 node - (植物的)茎节
 vue - 视图(法语)
-vite - 急速地
+vite - ˈviːt - 急速地
 rust - 铁锈
 web - 蜘蛛网
 link - (链状物的)环
@@ -316,7 +316,7 @@ restful - 益于休息的
 host - 主人
 server - 服务员
 client - 客户
-guest - 客人
+guest - ɡest - 客人
 proxy - 代理人
 agent - 经纪人
 scale - 天平;秤
@@ -325,172 +325,169 @@ balancer - 平衡器
 bucket - 桶
 hub - 轮毂中心
 cloud - 云朵
-caddy - 小盒子
+caddy - ˈkædi - 小盒子
 formation - 编队
-secret - 秘密
-key - 钥匙
+secret - ˈsiːkrət - 秘密
+key - kiː - 钥匙
 lock - 锁
 dock - 码头
 docker - 码头工人
 container - 集装箱;货柜
-pod - 豆荚
+pod - pɒd / pɑːd - 豆荚
 bean - 豆子
-kubernetes - 舵手(希腊语)
+kubernetes - kuːbə˞'netiz - 舵手(希腊语)
 helm - 舵柄
-compose - 作曲;撰写
+compose - kəmˈpoʊz - 作曲;撰写
 orchestration - 管弦乐编曲
-swarm - 蜂群
+swarm - swɔːrm - 蜂群
 mesh - 网状物
-prometheus - 普罗米修斯(希腊神话)
-loki - 洛基(北欧神话)
+prometheus - proˈmiθɪəs - 普罗米修斯(希腊神话)
+loki - ˈloʊkɪ - 洛基(北欧神话)
 elastic - 橡皮筋;有弹性的
-chef - 厨师
+chef - ʃef - 厨师
 cookbook - 食谱
-recipe - 配方
-puppet - 木偶
-handler - 操作者
-salt - 盐
+recipe - ˈresəpi - 配方
+puppet - ˈpʌpɪt - 木偶
+handler - ˈhændlər - 操作者
+salt - sɔːlt - 盐
 minion - 奴才
-grain - 谷粒
-pillar - 柱子
+grain - ɡreɪn - 谷粒
+pillar - ˈpɪlər - 柱子
 couch - 长沙发;睡椅
-lamp - 灯
+lamp - læmp - 灯
 sandbox - (供儿童玩耍的)沙坑
-archive - 存档
+archive - ˈɑːrkaɪv - 存档
 compress - 压紧
 extract - 榨取
-trace - 追溯;踪迹
+trace - treɪs - 追溯;踪迹
 dump - 丢弃;垃圾场
-daemon - 守护神
+daemon - ˈdiːmən - 守护神
 job - 工作
 batch - 批;成批作业
 manager - 管理者
-scheduler - 调度员
+scheduler - ˈskedʒuːlər - 调度员
 worker - 工人
 redirect - 改道
 flag - 旗帜
-meter - 计量仪
-snap - 猛咬;折断
-resin - 树脂
-atlas - 地图册
-squid - 乌贼
-varnish - 清漆
-lustre - 光泽
+meter - ˈmiːtər - 计量仪
+snap - snæp - 猛咬;折断
+resin - ˈrezɪn - 树脂
+atlas - ˈætləs - 地图册
+squid - skwɪd - 乌贼
+varnish - ˈvɑːrnɪʃ - 清漆
+lustre - ˈlʌstər - 光泽
 subversion - 颠覆
-cacti - 仙人掌
-graphite - 石墨
+cacti - ˈkæktaɪ - 仙人掌
+graphite - ˈɡræfaɪt - 石墨
 cobbler - 补鞋匠
 apache - 街头流氓
-bind - 捆绑
-zebra - 斑马
+bind - baɪnd - 捆绑
+zebra - ˈziːbrə - 斑马
 ant - 蚂蚁
-slack - 松弛
-relic - 遗物;遗迹
-oracle - 神谕;预言
-azure - 蔚蓝的
+slack - slæk - 松弛
+relic - ˈrelɪk - 遗物;遗迹
+oracle - ˈɔrəkl - 神谕;预言
+azure - ˈæʒər - 蔚蓝的
 windows - 窗户
-vault - 拱顶;地窖
-nexus - 联结
-relic - 遗迹
-vault - 保险库
-nexus - 连结;关系
-terraform - 将(行星)地球化(以适合人类居住)
-envoy - 使节;使者
-consul - 执政官;领事
-jaeger - 猎人
+vault - vɔːlt - 拱顶;地窖
+nexus - ˈneksəs - 联结
+terraform - ˈterəˌfɔːm - 将(行星)地球化(以适合人类居住)
+envoy - ˈenvɔɪ - 使节;使者
+consul - ˈkɑːns(ə)l - 执政官;领事
+jaeger - ˈjeɡər - 猎人
 hive - 蜂房
 spark - 火花
 zookeeper - 动物园管理员
-flume - 水槽
+flume - fluːm - 水槽
 yarn - 纱线
-kernel - 果核
-core - 核心
-chip - 屑片, 薄片
-memory - 记忆
-swap - 以货易货;交换
-program - 节目
-heap - (凌乱的)一堆
-stack - (整齐的)一堆
-queue - (人或车的)队
-loop - 环
-broadcast - broadcast 广播(电视)节目
-library - 图书馆
-class - 班级;阶级;种类;课
-hash - 剁碎的食物;混杂
-object - 物体
+kernel - ˈkɜːrn(ə)l -果核
+core - kɔːr - 核心
+chip - tʃɪp - 屑片, 薄片
+memory - ˈmeməri - 记忆
+swap - swɑːp - 以货易货;交换
+program - ˈproʊɡræm - 节目
+heap - hiːp - (凌乱的)一堆
+stack - stæk - (整齐的)一堆
+queue - kjuː - (人或车的)队
+loop - luːp - 环
+broadcast - ˈbrɔːdkæst - 广播(电视)节目
+library - ˈlaɪbrəri - 图书馆
+class - klɑːs - 班级;阶级;种类;课
+hash - hæʃ - 剁碎的食物;混杂
+object - ˈɑːbdʒekt - 物体
 function - 职务;功能
-thread - 线
-call - 呼叫
+thread - θred - 线
+call - kɔːl - 呼叫
 pointer - 指示器
-argument - 争论
-variable - 可变的
-mock - 嘲笑;模仿
-pool - 水池
+argument - ˈɑːrɡjumənt - 争论
+variable -  ˈveriəb(ə)l - 可变的
+mock - mɒk - 嘲笑;模仿
+pool - puːl - 水池
 bug - 虫子
-debug - 除虫
-pattern - (布的)样品
-menu - (饭馆的)菜单
-race - 赛跑;种族
-spawn - 产卵
-acid - 酸
-array - 排列
-macro - 宏观的
-query - 询问
-crash - 撞车
+debug - ˌdiːˈbʌɡ - 除虫
+pattern - ˈpætərn - (布的)样品
+menu - ˈmenjuː - (饭馆的)菜单
+race - reɪs - 赛跑;种族
+spawn - spɔːn - 产卵
+acid - ˈæsɪd - 酸
+array - əˈreɪ - 排列
+macro - ˈmækroʊ - 宏观的
+query - ˈkwɪri - 询问
+crash - kræʃ - 撞车
 table - 桌子
-field - 田地
-column - 圆柱;纵队
-record - 录制(唱片)
+field - fiːld - 田地
+column - ˈkɒləm - 圆柱;纵队
+record - ˈrekɔːd - 录制(唱片)
 file - 文件
 folder - 文件夹
-directory - 人名地址录
-path - 小道
+directory - dəˈrektəri - 人名地址录
+path - pæθ - 小道
 tree - 树
 partition - 分割
-volume - 成团卷起;音量
+volume - ˈvɒljuːm - 成团卷起;音量
 sector - 扇形
 root - (植物的)根
 mount - 攀登
-signal - 导火线
-filter - 过滤器
-disk - 圆盘
+signal - ˈsɪɡnəl - 导火线
+filter - ˈfɪltər - 过滤器
+disk - dɪsk - 圆盘
 format - (出版物的)版式
 boot - 靴子
-bios - 生长素;酵母促生物
-virus - 病毒
+bios - ˈbaɪɒs - 生长素;酵母促生物
+virus - ˈvaɪrəs - 病毒
 driver - 司机
-compass - 指南针
-log - 原木;记录
-orphan - 孤儿
-zombie - 僵尸
-block - 木块;石块;街区;阻塞
+compass - ˈkʌmpəs - 指南针
+log - lɔːɡ - 原木;记录
+orphan -  ˈɔːrf(ə)n - 孤儿
+zombie - ˈzɑːmbi - 僵尸
+block - blɒk - 木块;石块;街区;阻塞
 printer - 印刷工
-ping - 砰(声音)
-latency - 潜伏
+ping - pɪŋ - 砰(声音)
+latency - ˈleɪtənsi - 潜伏
 route - 路线
 router - 路线规划者
 gateway - 大门口
-nat - 精灵
-switch - 开关
-hop - 单脚跳
-zone - 地带
-domain - 领域
-protocol - 礼仪
-flood - 洪水
-sniff - 嗅
+nat - næt - 精灵
+switch - swɪtʃ - 开关
+hop - hɒp - 单脚跳
+zone - zoʊn - 地带
+domain - doʊˈmeɪn - 领域
+protocol - ˈproʊtəkɑːl - 礼仪
+flood - flʌd - 洪水
+sniff - snɪf - 嗅
 peer - 同等地位的人
-packet - 小包
-channel - 航道
-tunnel - 隧道
+packet - ˈpækɪt - 小包
+channel - ˈtʃæn(ə)l - 航道
+tunnel - ˈtʌn(ə)l - 隧道
 monitor - 监督员
-dig - 挖
+dig - dɪɡ - 挖
 bus - 公共汽车
-address - 地址
-port - 港口
-socket - 插座
-bridge - 桥
-profile - 轮廓
-sprint - 冲刺
-board - 木板;甲板
-cycle - 循环;周期
+address - əˈdres - 地址
+port - pɔːrt - 港口
+socket - ˈsɒkɪt - 插座
+bridge - brɪdʒ - 桥
+profile - ˈproʊfaɪl - 轮廓
+sprint - sprɪnt - 冲刺
+board - bɔːrd - 木板;甲板
+cycle - ˈsaɪk(ə)l - 循环;周期
 ```
