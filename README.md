@@ -13,7 +13,7 @@ u ū ú ǔ ù
 ü ǖ ǘ ǚ ǜ
 ```
 
-### 误读
+### 容易误读的中文词
 
 > 中文发音 - 误读发音 - [中文解释]
 
@@ -202,7 +202,7 @@ Z:
 
 ## English
 
-### 音标
+### 音标单词发音示例
 
 | 单元音   | 示例       | 双元音  | 示例     | 清辅音 | 示例      | 浊辅音 | 示例         |
 | -------- | ---------- | ------- | -------- | ------ | --------- | ------ | ------------ |
@@ -222,7 +222,7 @@ Z:
 |          |            |         |          |        |           | j      | **y**ou      |
 |          |            |         |          |        |           | w      | **w**hy      |
 
-### 发音
+### 容易误读的英文词
 
 > 英文词 - [英文发音] - [英文解释] - [中文解释]
 
@@ -245,16 +245,252 @@ Simon - ˈsaɪmən
 clover - ˈkloʊvər - 三叶草
 ```
 
-### 中文 - 英文
+### 中文熟悉英文陌生
 
 > 中文词 - 英文词 - [英文发音]
 
 ```
 ```
 
-### 通用 - 术语
+### 术语词的通用含义
 
 > 英文词 - [英文发音] - 通用含义 - [术语含义]
 
 ```
+roadmap - 路标
+bash - 猛击
+shell - 贝壳
+command - 指挥;命令
+script - 剧本;手稿
+alias - 化名;别名
+terminal - 终点站
+console - 控制台;仪表盘
+vim - 活力
+nano - 纳米
+tar - 焦油
+zip - 拉链
+cat - 猫
+git - 饭桶;无用的人
+branch - 树枝
+fork - 餐叉
+blob - 滴(液体)
+clone - 克隆
+commit - 承诺
+shard - 碎片
+hook - 钩
+build - 建造
+release - 释放
+artifact - 手工艺品
+cache - 隐藏处
+buffer - (防撞)缓冲物
+repository - 贮藏室
+mirror - 镜子
+trigger - (枪械的)扳机
+pipeline - 输送管道
+stream - 小溪
+flux - 流出;熔化
+drone - 雄蜂;无人机
+parcel - 包裹
+python - 巨蟒
+pip - 种子
+ruby - 红宝石
+java - 爪哇岛(印度尼西亚);咖啡
+jar - 罐子
+war - 战争
+node - (植物的)茎节
+vue - 视图(法语)
+vite - 急速地
+rust - 铁锈
+web - 蜘蛛网
+link - (链状物的)环
+cookie - 饼干
+header - 顶梁
+footer - 墙基
+payload - 有效载荷
+load - 装载
+mail - 邮件
+post - 邮递
+postman - 邮递员
+rest - 休息
+restful - 益于休息的
+host - 主人
+server - 服务员
+client - 客户
+guest - 客人
+proxy - 代理人
+agent - 经纪人
+scale - 天平;秤
+cluster - 簇(cù)
+balancer - 平衡器
+bucket - 桶
+hub - 轮毂中心
+cloud - 云朵
+caddy - 小盒子
+formation - 编队
+secret - 秘密
+key - 钥匙
+lock - 锁
+dock - 码头
+docker - 码头工人
+container - 集装箱;货柜
+pod - 豆荚
+bean - 豆子
+kubernetes - 舵手(希腊语)
+helm - 舵柄
+compose - 作曲;撰写
+orchestration - 管弦乐编曲
+swarm - 蜂群
+mesh - 网状物
+prometheus - 普罗米修斯(希腊神话)
+loki - 洛基(北欧神话)
+elastic - 橡皮筋;有弹性的
+chef - 厨师
+cookbook - 食谱
+recipe - 配方
+puppet - 木偶
+handler - 操作者
+salt - 盐
+minion - 奴才
+grain - 谷粒
+pillar - 柱子
+couch - 长沙发;睡椅
+lamp - 灯
+sandbox - (供儿童玩耍的)沙坑
+archive - 存档
+compress - 压紧
+extract - 榨取
+trace - 追溯;踪迹
+dump - 丢弃;垃圾场
+daemon - 守护神
+job - 工作
+batch - 批;成批作业
+manager - 管理者
+scheduler - 调度员
+worker - 工人
+redirect - 改道
+flag - 旗帜
+meter - 计量仪
+snap - 猛咬;折断
+resin - 树脂
+atlas - 地图册
+squid - 乌贼
+varnish - 清漆
+lustre - 光泽
+subversion - 颠覆
+cacti - 仙人掌
+graphite - 石墨
+cobbler - 补鞋匠
+apache - 街头流氓
+bind - 捆绑
+zebra - 斑马
+ant - 蚂蚁
+slack - 松弛
+relic - 遗物;遗迹
+oracle - 神谕;预言
+azure - 蔚蓝的
+windows - 窗户
+vault - 拱顶;地窖
+nexus - 联结
+relic - 遗迹
+vault - 保险库
+nexus - 连结;关系
+terraform - 将(行星)地球化(以适合人类居住)
+envoy - 使节;使者
+consul - 执政官;领事
+jaeger - 猎人
+hive - 蜂房
+spark - 火花
+zookeeper - 动物园管理员
+flume - 水槽
+yarn - 纱线
+kernel - 果核
+core - 核心
+chip - 屑片, 薄片
+memory - 记忆
+swap - 以货易货;交换
+program - 节目
+heap - (凌乱的)一堆
+stack - (整齐的)一堆
+queue - (人或车的)队
+loop - 环
+broadcast - broadcast 广播(电视)节目
+library - 图书馆
+class - 班级;阶级;种类;课
+hash - 剁碎的食物;混杂
+object - 物体
+function - 职务;功能
+thread - 线
+call - 呼叫
+pointer - 指示器
+argument - 争论
+variable - 可变的
+mock - 嘲笑;模仿
+pool - 水池
+bug - 虫子
+debug - 除虫
+pattern - (布的)样品
+menu - (饭馆的)菜单
+race - 赛跑;种族
+spawn - 产卵
+acid - 酸
+array - 排列
+macro - 宏观的
+query - 询问
+crash - 撞车
+table - 桌子
+field - 田地
+column - 圆柱;纵队
+record - 录制(唱片)
+file - 文件
+folder - 文件夹
+directory - 人名地址录
+path - 小道
+tree - 树
+partition - 分割
+volume - 成团卷起;音量
+sector - 扇形
+root - (植物的)根
+mount - 攀登
+signal - 导火线
+filter - 过滤器
+disk - 圆盘
+format - (出版物的)版式
+boot - 靴子
+bios - 生长素;酵母促生物
+virus - 病毒
+driver - 司机
+compass - 指南针
+log - 原木;记录
+orphan - 孤儿
+zombie - 僵尸
+block - 木块;石块;街区;阻塞
+printer - 印刷工
+ping - 砰(声音)
+latency - 潜伏
+route - 路线
+router - 路线规划者
+gateway - 大门口
+nat - 精灵
+switch - 开关
+hop - 单脚跳
+zone - 地带
+domain - 领域
+protocol - 礼仪
+flood - 洪水
+sniff - 嗅
+peer - 同等地位的人
+packet - 小包
+channel - 航道
+tunnel - 隧道
+monitor - 监督员
+dig - 挖
+bus - 公共汽车
+address - 地址
+port - 港口
+socket - 插座
+bridge - 桥
+profile - 轮廓
+sprint - 冲刺
+board - 木板;甲板
+cycle - 循环;周期
 ```
