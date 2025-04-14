@@ -464,8 +464,8 @@ block - blɒk - 木块;石块;街区;阻塞
 printer - 印刷工
 ping - pɪŋ - 砰(声音)
 latency - ˈleɪtənsi - 潜伏
-route - 路线
-router - 路线规划者
+route - ruːt - 路线
+router - ˈruːtər - 路线规划者
 gateway - 大门口
 nat - næt - 精灵
 switch - swɪtʃ - 开关
