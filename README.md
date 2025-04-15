@@ -249,6 +249,8 @@ phonetic - fəˈnetɪk fuh-neh-tuhk - 音标的
 exit - ˈeksɪt - 退出
 escape - ɪˈskeɪp - 逃离
 exist - ɪɡˈzɪst - 存在
+GUI - ˈɡuːi - Graphical User Interface - 图形用户界面
+gooey - ˈɡuːi - 胶粘的
 ```
 
 ### 中文熟悉 英文陌生
