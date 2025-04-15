@@ -336,7 +336,7 @@ docker - ˈdɒkə(r) - 码头工人
 container - kənˈteɪnər - 集装箱;货柜
 pod - pɒd - 豆荚
 bean - biːn - 豆子
-kubernetes - kuːbəˈneɪtiːz - 舵手(希腊语)
+kubernetes - kuːbəˈneɪtiːz koo-br-neh-teez - 舵手(希腊语)
 istio - iss-tee-oh - 航行(希腊语)
 helm - helm - 舵柄
 compose - kəmˈpoʊz - 作曲;撰写
