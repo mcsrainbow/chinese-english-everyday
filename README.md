@@ -253,6 +253,7 @@ GUI - ˈɡuːi - Graphical User Interface - 图形用户界面
 gooey - ˈɡuːi - 胶粘的
 SQL - ˈsiːkwəl
 sequel - ˈsiːkwəl see-kwl - 续篇
+every - ˈevri - 每个
 ```
 
 ### 中文熟悉 英文陌生
