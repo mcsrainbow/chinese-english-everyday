@@ -337,6 +337,7 @@ container - kənˈteɪnər - 集装箱;货柜
 pod - pɒd - 豆荚
 bean - biːn - 豆子
 kubernetes - kuːbə˞'netiz - 舵手(希腊语)
+istio - iss-tee-oh - 航行(希腊语)
 helm - helm - 舵柄
 compose - kəmˈpoʊz - 作曲;撰写
 orchestration - ˌɔːrkɪˈstreɪʃn - 管弦乐编曲
