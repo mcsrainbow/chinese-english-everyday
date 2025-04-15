@@ -254,6 +254,8 @@ gooey - ˈɡuːi - 胶粘的
 SQL - ˈsiːkwəl
 sequel - ˈsiːkwəl see-kwl - 续篇
 every - ˈevri - 每个
+Alex - ˈælɪks
+ivy - ˈaɪvi - 常青藤
 ```
 
 ### 中文熟悉 英文陌生
