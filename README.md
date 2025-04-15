@@ -247,6 +247,7 @@ diamond - ˈdaɪmənd - 钻石
 phonetic - fəˈnetɪk fuh-neh-tuhk - 音标的
 exit - ˈeksɪt - 退出
 escape - ɪˈskeɪp - 逃离
+exist - ɪɡˈzɪst - 存在
 ```
 
 ### 中文熟悉 英文陌生
