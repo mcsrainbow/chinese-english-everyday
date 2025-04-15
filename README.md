@@ -244,6 +244,7 @@ Damon - ˈdeɪmən
 Simon - ˈsaɪmən
 clover - ˈkloʊvər - 三叶草
 diamond - ˈdaɪmənd - 钻石
+phonetic - fəˈnetɪk fuh-neh-tuhk - 音标的
 ```
 
 ### 中文熟悉 英文陌生
