@@ -239,136 +239,137 @@ Uber - ˈuːbər - 优步, 出行服务公司
 Ubuntu - ʊˈbʊntuː - 乌班图, Linux发行版
 crawler - ˈkrɔːlər - 爬虫
 tenet - ˈtenɪt - 信条(信仰的条文)
-coupon - ˈkuːpɒn / ˈkuːpɑːn - 优惠券
+coupon - ˈkuːpɒn - 优惠券
 Damon - ˈdeɪmən
 Simon - ˈsaɪmən
 clover - ˈkloʊvər - 三叶草
+diamond - ˈdaɪmənd - 钻石
 ```
 
 ### 中文熟悉 英文陌生
 
-> 中文词 - 英文词 - [英文发音]
+> 中文词 - 英文词 - 英文发音
 
 ```
 ```
 
 ### 术语词汇 通用含义
 
-> 英文词 - [英文发音] - 通用含义 - [术语含义]
+> 英文词 - 英文发音 - 通用含义 - [术语含义]
 
 ```
-roadmap - 路标
-bash - 猛击
-shell - 贝壳
-command - 指挥;命令
-script - 剧本;手稿
+roadmap - ˈroʊdmæp - 路标
+bash - bæʃ - 猛击
+shell - ʃel - 贝壳
+command - kəˈmænd - 指挥;命令
+script - skrɪpt - 剧本;手稿
 alias - ˈeɪliəs - 化名;别名
-terminal - 终点站
+terminal - ˈtɜːrmɪn(ə)l - 终点站
 console - kənˈsoʊl - 控制台;仪表盘
-vim - 活力
-nano - 纳米
-tar - 焦油
-zip - 拉链
-cat - 猫
+vim - vɪm - 活力
+nano - ˈnænoʊ - 纳米
+tar - tɑːr - 焦油
+zip - zɪp - 拉链
+cat - kæt - 猫
 git - ɡɪt - 饭桶;无用的人
-branch - 树枝
+branch - bræntʃ - 树枝
 fork - fɔːrk - 餐叉
-blob - blɒb / blɑːb - 滴(液体)
+blob - blɒb - 滴(液体)
 clone - kloʊn - 克隆
-commit - 承诺
-shard - 碎片
+commit - kəˈmɪt - 承诺
+shard - ʃɑːrd - 碎片
 hook - hʊk - 钩
-build - 建造
-release - 释放
-artifact - 手工艺品
+build - bɪld - 建造
+release - rɪˈliːs - 释放
+artifact - ˈɑːrtɪfækt - 手工艺品
 cache - kæʃ - 隐藏处
-buffer - (防撞)缓冲物
-repository - 贮藏室
+buffer - ˈbʌfər - (防撞)缓冲物
+repository - rɪˈpɑːzətɔːri - 贮藏室
 mirror - ˈmɪrər - 镜子
 trigger - ˈtrɪɡər - (枪械的)扳机
 pipeline - ˈpaɪplaɪn - 输送管道
-stream - 小溪
-flux - 流出;熔化
+stream - striːm - 小溪
+flux - flʌks - 流出;熔化
 drone - droʊn - 雄蜂;无人机
 parcel - ˈpɑːrs(ə)l - 包裹
-python - 巨蟒
+python - ˈpaɪθɑːn - 巨蟒
 pip - pɪp - 种子
-ruby - 红宝石
-java - 爪哇岛(印度尼西亚);咖啡
-jar - 罐子
-war - 战争
-node - (植物的)茎节
-vue - 视图(法语)
+ruby - ˈruːbi - 红宝石
+java - ˈdʒɑːvə - 爪哇岛(印度尼西亚);咖啡
+jar - dʒɑːr - 罐子
+war - wɔːr - 战争
+node - noʊd - (植物的)茎节
+vue - vjuː - 视图(法语)
 vite - ˈviːt - 急速地
-rust - 铁锈
-web - 蜘蛛网
-link - (链状物的)环
-cookie - 饼干
-header - 顶梁
-footer - 墙基
-payload - 有效载荷
-load - 装载
-mail - 邮件
-post - 邮递
-postman - 邮递员
-rest - 休息
-restful - 益于休息的
-host - 主人
-server - 服务员
-client - 客户
+rust - rʌst - 铁锈
+web - web - 蜘蛛网
+link - lɪŋk - (链状物的)环
+cookie - ˈkʊki - 饼干
+header - ˈhedər - 顶梁
+footer - ˈfʊtər - 墙基
+payload - ˈpeɪloʊd - 有效载荷
+load - loʊd - 装载
+mail - meɪl - 邮件
+post - poʊst - 邮递
+postman - ˈpoʊstmən - 邮递员
+rest - rest - 休息
+restful - ˈrestfl - 益于休息的
+host - hoʊst - 主人
+server - ˈsɜːrvər - 服务员
+client - ˈklaɪənt - 客户
 guest - ɡest - 客人
-proxy - 代理人
-agent - 经纪人
-scale - 天平;秤
-cluster - 簇(cù)
-balancer - 平衡器
-bucket - 桶
-hub - 轮毂中心
-cloud - 云朵
+proxy - ˈprɒksi - 代理人
+agent - ˈeɪdʒənt - 经纪人
+scale - skeɪl - 天平;秤
+cluster - ˈklʌstər - 簇(cù)
+balancer - ˈbælənsər - 平衡器
+bucket - ˈbʌkɪt - 桶
+hub - hʌb - 轮毂中心
+cloud - klaʊd - 云朵
 caddy - ˈkædi - 小盒子
-formation - 编队
+formation - fɔːrˈmeɪʃ(ə)n - 编队
 secret - ˈsiːkrət - 秘密
 key - kiː - 钥匙
-lock - 锁
-dock - 码头
-docker - 码头工人
-container - 集装箱;货柜
-pod - pɒd / pɑːd - 豆荚
-bean - 豆子
+lock - lɒk - 锁
+dock - dɒk - 码头
+docker - ˈdɒkə(r) - 码头工人
+container - kənˈteɪnər - 集装箱;货柜
+pod - pɒd - 豆荚
+bean - biːn - 豆子
 kubernetes - kuːbə˞'netiz - 舵手(希腊语)
-helm - 舵柄
+helm - helm - 舵柄
 compose - kəmˈpoʊz - 作曲;撰写
-orchestration - 管弦乐编曲
+orchestration - ˌɔːrkɪˈstreɪʃn - 管弦乐编曲
 swarm - swɔːrm - 蜂群
-mesh - 网状物
+mesh - meʃ - 网状物
 prometheus - proˈmiθɪəs - 普罗米修斯(希腊神话)
 loki - ˈloʊkɪ - 洛基(北欧神话)
-elastic - 橡皮筋;有弹性的
+elastic - ɪˈlæstɪk - 橡皮筋;有弹性的
 chef - ʃef - 厨师
-cookbook - 食谱
+cookbook - ˈkʊkbʊk - 食谱
 recipe - ˈresəpi - 配方
 puppet - ˈpʌpɪt - 木偶
 handler - ˈhændlər - 操作者
 salt - sɔːlt - 盐
-minion - 奴才
+minion - ˈmɪnjən - 奴才
 grain - ɡreɪn - 谷粒
 pillar - ˈpɪlər - 柱子
-couch - 长沙发;睡椅
+couch - kaʊtʃ - 长沙发;睡椅
 lamp - læmp - 灯
-sandbox - (供儿童玩耍的)沙坑
+sandbox - ˈsændbɒks - (供儿童玩耍的)沙坑
 archive - ˈɑːrkaɪv - 存档
-compress - 压紧
-extract - 榨取
+compress - kəmˈpres - 压紧
+extract - ˈekstrækt - 榨取
 trace - treɪs - 追溯;踪迹
-dump - 丢弃;垃圾场
+dump - dʌmp - 丢弃;垃圾场
 daemon - ˈdiːmən - 守护神
-job - 工作
-batch - 批;成批作业
-manager - 管理者
+job - dʒɒb - 工作
+batch - bætʃ - 批;成批作业
+manager - ˈmænɪdʒər - 管理者
 scheduler - ˈskedʒuːlər - 调度员
-worker - 工人
-redirect - 改道
-flag - 旗帜
+worker - ˈwɜːrkər - 工人
+redirect - ˌriːdəˈrekt - 改道
+flag - flæɡ - 旗帜
 meter - ˈmiːtər - 计量仪
 snap - snæp - 猛咬;折断
 resin - ˈrezɪn - 树脂
@@ -376,31 +377,31 @@ atlas - ˈætləs - 地图册
 squid - skwɪd - 乌贼
 varnish - ˈvɑːrnɪʃ - 清漆
 lustre - ˈlʌstər - 光泽
-subversion - 颠覆
+subversion - səbˈvɜːʃn - 颠覆
 cacti - ˈkæktaɪ - 仙人掌
 graphite - ˈɡræfaɪt - 石墨
-cobbler - 补鞋匠
-apache - 街头流氓
+cobbler - ˈkɑːblər - 补鞋匠
+apache - əˈpætʃi - 街头流氓
 bind - baɪnd - 捆绑
 zebra - ˈziːbrə - 斑马
-ant - 蚂蚁
+ant - ænt - 蚂蚁
 slack - slæk - 松弛
 relic - ˈrelɪk - 遗物;遗迹
 oracle - ˈɔrəkl - 神谕;预言
 azure - ˈæʒər - 蔚蓝的
-windows - 窗户
+windows - ˈwɪndoʊz - 窗户
 vault - vɔːlt - 拱顶;地窖
 nexus - ˈneksəs - 联结
 terraform - ˈterəˌfɔːm - 将(行星)地球化(以适合人类居住)
 envoy - ˈenvɔɪ - 使节;使者
 consul - ˈkɑːns(ə)l - 执政官;领事
 jaeger - ˈjeɡər - 猎人
-hive - 蜂房
-spark - 火花
-zookeeper - 动物园管理员
+hive - haɪv - 蜂房
+spark - spɑːrk - 火花
+zookeeper - ˈzuːkiːpər - 动物园管理员
 flume - fluːm - 水槽
-yarn - 纱线
-kernel - ˈkɜːrn(ə)l -果核
+yarn - jɑːrn - 纱线
+kernel - ˈkɜːrn(ə)l - 果核
 core - kɔːr - 核心
 chip - tʃɪp - 屑片, 薄片
 memory - ˈmeməri - 记忆
@@ -415,15 +416,15 @@ library - ˈlaɪbrəri - 图书馆
 class - klɑːs - 班级;阶级;种类;课
 hash - hæʃ - 剁碎的食物;混杂
 object - ˈɑːbdʒekt - 物体
-function - 职务;功能
+function - ˈfʌŋkʃ(ə)n - 职务;功能
 thread - θred - 线
 call - kɔːl - 呼叫
-pointer - 指示器
+pointer - ˈpɔɪntər - 指示器
 argument - ˈɑːrɡjumənt - 争论
 variable -  ˈveriəb(ə)l - 可变的
 mock - mɒk - 嘲笑;模仿
 pool - puːl - 水池
-bug - 虫子
+bug - bʌɡ - 虫子
 debug - ˌdiːˈbʌɡ - 除虫
 pattern - ˈpætərn - (布的)样品
 menu - ˈmenjuː - (饭馆的)菜单
@@ -434,39 +435,39 @@ array - əˈreɪ - 排列
 macro - ˈmækroʊ - 宏观的
 query - ˈkwɪri - 询问
 crash - kræʃ - 撞车
-table - 桌子
+table - ˈteɪbl - 桌子
 field - fiːld - 田地
 column - ˈkɒləm - 圆柱;纵队
 record - ˈrekɔːd - 录制(唱片)
-file - 文件
-folder - 文件夹
+file - faɪl - 文件
+folder - ˈfoʊldər - 文件夹
 directory - dəˈrektəri - 人名地址录
 path - pæθ - 小道
-tree - 树
-partition - 分割
+tree - triː - 树
+partition - pɑːrˈtɪʃ(ə)n  - 分割
 volume - ˈvɒljuːm - 成团卷起;音量
-sector - 扇形
-root - (植物的)根
-mount - 攀登
+sector - ˈsektər - 扇形
+root - ruːt - (植物的)根
+mount - maʊnt - 攀登
 signal - ˈsɪɡnəl - 导火线
 filter - ˈfɪltər - 过滤器
 disk - dɪsk - 圆盘
-format - (出版物的)版式
-boot - 靴子
+format - ˈfɔːrmæt - (出版物的)版式
+boot - buːt - 靴子
 bios - ˈbaɪɒs - 生长素;酵母促生物
 virus - ˈvaɪrəs - 病毒
-driver - 司机
+driver - ˈdraɪvər - 司机
 compass - ˈkʌmpəs - 指南针
 log - lɔːɡ - 原木;记录
 orphan -  ˈɔːrf(ə)n - 孤儿
 zombie - ˈzɑːmbi - 僵尸
 block - blɒk - 木块;石块;街区;阻塞
-printer - 印刷工
+printer - ˈprɪntər - 印刷工
 ping - pɪŋ - 砰(声音)
 latency - ˈleɪtənsi - 潜伏
 route - ruːt - 路线
 router - ˈruːtər - 路线规划者
-gateway - 大门口
+gateway - ˈɡeɪtweɪ - 大门口
 nat - næt - 精灵
 switch - swɪtʃ - 开关
 hop - hɒp - 单脚跳
@@ -475,13 +476,13 @@ domain - doʊˈmeɪn - 领域
 protocol - ˈproʊtəkɑːl - 礼仪
 flood - flʌd - 洪水
 sniff - snɪf - 嗅
-peer - 同等地位的人
+peer - pɪr - 同等地位的人
 packet - ˈpækɪt - 小包
 channel - ˈtʃæn(ə)l - 航道
 tunnel - ˈtʌn(ə)l - 隧道
-monitor - 监督员
+monitor - ˈmɒnɪtə(r) - 监督员
 dig - dɪɡ - 挖
-bus - 公共汽车
+bus - bʌs - 公共汽车
 address - əˈdres - 地址
 port - pɔːrt - 港口
 socket - ˈsɒkɪt - 插座
