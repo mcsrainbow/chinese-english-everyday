@@ -251,6 +251,8 @@ escape - ɪˈskeɪp - 逃离
 exist - ɪɡˈzɪst - 存在
 GUI - ˈɡuːi - Graphical User Interface - 图形用户界面
 gooey - ˈɡuːi - 胶粘的
+SQL - ˈsiːkwəl
+sequel - ˈsiːkwəl see-kwl - 续篇
 ```
 
 ### 中文熟悉 英文陌生
