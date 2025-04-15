@@ -312,6 +312,7 @@ ruby - ˈruːbi - 红宝石
 java - ˈdʒɑːvə - 爪哇岛(印度尼西亚);咖啡
 jar - dʒɑːr - 罐子
 war - wɔːr - 战争
+swagger - ˈswæɡər - 大摇大摆;虚张声势
 node - noʊd - (植物的)茎节
 vue - vjuː - 视图(法语)
 vite - ˈviːt - 急速地
