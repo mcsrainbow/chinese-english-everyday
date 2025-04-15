@@ -232,8 +232,8 @@ NiFi - ˈnaɪfaɪ  - 实时数据流处理系统
 NIKE - ˈnaɪkiː - 耐克
 grok - ɡrɒk / ɡrɑːk - 通过感觉意会
 beaver - ˈbiːvər - 河狸
-Linus - ˈlaɪnəs - 林纳斯
-Linux - ˈlɪnəks / ˈlaɪnəks / ˈlaɪnʌks - 类Unix操作系统
+Linus - ˈlaɪnəs lai-nuhs - 林纳斯
+Linux - ˈlɪnəks li-nuhks / ˈlaɪnəks / ˈlaɪnʌks - 类Unix操作系统
 MinIO - mɪn ˈaɪoʊ - 分布式对象存储系统
 Uber - ˈuːbər - 优步, 出行服务公司
 Ubuntu - ʊˈbʊntuː - 乌班图, Linux发行版
