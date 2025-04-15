@@ -139,6 +139,7 @@ Q:
 亲(qìng)家 - qīn家 - "亲"称呼qìng, 接近qīn
 曲(qū)解 - qǔ解 - "曲"使弯qū, 乐谱qǔ
 翘(qiáo)首 - qiào首 - "翘"抬起qiáo, 口语qiào
+躯壳(qiào) - 躯ké
 
 R:
 妊娠(rèn shēn) - 妊chén
@@ -170,6 +171,7 @@ X:
 惟妙惟肖(xiào) - 惟妙惟xiāo - "肖"像(肖像)xiào, 姓氏xiāo
 擤(xǐng)鼻涕 - bí鼻涕
 檄(xí)文 - jiǎo文 - "檄"揭发
+采撷(xié) - "撷"采摘
 
 Y:
 要(yāo)挟 - yào挟
@@ -201,9 +203,30 @@ Z:
 饮鸩(zhèn)止渴 - 饮jiū止渴 - "鸩"毒药zhèn, "鸠"鸟jiū
 卷帙(zhì) - 卷shǐ
 锃(zèng)亮 - chéng亮
+撰(zhuàn)写
 ```
 
 ## English
+
+### 字母发音
+
+A - eɪ
+B - biː
+C - siː
+D - diː
+E - iː
+F - ef
+G - dʒiː
+H - eɪtʃ
+I - aɪ
+J - dʒeɪ
+K - keɪ
+L - el
+M - em
+N - en
+O - oʊ
+P - piː
+
 
 ### 音标发音 单词示例
 
