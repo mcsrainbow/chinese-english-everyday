@@ -371,7 +371,7 @@ worker - ˈwɜːrkər - 工人
 redirect - ˌriːdəˈrekt - 改道
 flag - flæɡ - 旗帜
 meter - ˈmiːtər - 计量仪
-snap - snæp - 猛咬;折断
+snap - snæp - 喀嚓声;突然的
 resin - ˈrezɪn - 树脂
 atlas - ˈætləs - 地图册
 squid - skwɪd - 乌贼
