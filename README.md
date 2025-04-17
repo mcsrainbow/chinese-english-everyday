@@ -1,4 +1,4 @@
-# chinese-english-everyday 中英日常表达集
+# Chinese English Everyday 中英日常表达集
 
 ## 中文
 
