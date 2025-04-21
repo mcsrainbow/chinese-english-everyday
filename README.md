@@ -282,7 +282,7 @@ U juː    V viː   W ˈdʌbljuː       X eks   Y waɪ   Z ziː
 | ʊ        | p**u**t    | eə / er | c**are** | ʃ      | **sh**ort | ʒ      | plea**s**ure |
 | uː       | t**oo**    | ʊə / ʊr | t**our** | tʃ     | **ch**air | dʒ     | **j**ump     |
 | ʌ        | c**u**p    |         |          | h      | **h**i    | m      | **m**y       |
-| ə        | pand**a**  |         |          |        |           | n      | **n**ame     |
+| ə        | t**o**day  |         |          |        |           | n      | **n**ame     |
 | ɜː / ɜːr | b**ir**d   |         |          |        |           | ŋ      | ri**ng**     |
 | ə / ər   | moth**er** |         |          |        |           | l      | **l**ike     |
 | ɒ / ɑː   | r**o**ck   |         |          |        |           | r      | **r**un      |
@@ -323,6 +323,10 @@ every - ˈevri - 每个
 Alex - ˈælɪks
 ivy - ˈaɪvi - 常青藤
 anonymous - əˈnɒnɪməs - 匿名的
+premium - ˈpriːmiəm - 高品质的
+ultimate - ˈʌltɪmət - 最终的
+ultra - ˈʌltrə - 极端的
+prime - praɪm - 主要的
 ```
 
 ### 中文熟悉 英文陌生
