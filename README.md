@@ -294,6 +294,7 @@ U juː    V viː   W ˈdʌbljuː       X eks   Y waɪ   Z ziː
 > 英文词 - 英文发音 - [英文解释] - [中文解释]
 
 ```
+today - təˈdeɪ tuh-day - 今天
 pip - pɪp - Pip Installs Packages - Python包管理工具
 NiFi - ˈnaɪfaɪ  - 实时数据流处理系统
 NIKE - ˈnaɪkiː - 耐克
