@@ -131,6 +131,7 @@ M:
 联袂(mèi) - 联jué
 鳗(mán)鱼 - màn鱼
 蓦(mò)然 - mù然
+耄耋(mào dié)
 
 N:
 宁(nìng)可 - níng可 - "宁"难道nìng, 安定níng
@@ -296,6 +297,7 @@ U juː    V viː   W ˈdʌbljuː       X eks   Y waɪ   Z ziː
 
 ```
 today - təˈdeɪ tuh-day - 今天
+character - ˈkærəktər - 性格; 人物
 pip - pɪp - Pip Installs Packages - Python包管理工具
 NiFi - ˈnaɪfaɪ  - 实时数据流处理系统
 NIKE - ˈnaɪkiː - 耐克
