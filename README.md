@@ -299,6 +299,7 @@ U juː    V viː   W ˈdʌbljuː       X eks   Y waɪ   Z ziː
 > 英文词 - 英文发音 - [英文解释] - [中文解释]
 
 ```
+weather - ˈweðər - 天气
 today - təˈdeɪ tuh-day - 今天
 character - ˈkærəktər - 性格; 人物
 subordinate - səˈbɔːrdɪnət - 下级的
