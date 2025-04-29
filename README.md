@@ -132,6 +132,7 @@ M:
 鳗(mán)鱼 - màn鱼
 蓦(mò)然 - mù然
 耄耋(mào dié)
+静谧(mì)
 
 N:
 宁(nìng)可 - níng可 - "宁"难道nìng, 安定níng
@@ -170,6 +171,7 @@ S:
 莘莘(shēn)学子 - xīnxīn学子
 拾(shè)级而上 - shí级而上 - "拾"放轻脚步shè, 捡取shí
 骨髓(suǐ) - 骨suí
+疝(shàn)
 
 T:
 拓(tà)本 - tuò本
@@ -204,6 +206,7 @@ Y:
 殷(yīn)切 - yān切
 拜谒(yè) - 拜jié
 眩晕(xuàn yùn) - xuán yūn
+苑(yuàn) - wǎn - "苑"园林
 
 Z:
 咋(zé)舌 - zhà舌
@@ -298,6 +301,7 @@ U juː    V viː   W ˈdʌbljuː       X eks   Y waɪ   Z ziː
 ```
 today - təˈdeɪ tuh-day - 今天
 character - ˈkærəktər - 性格; 人物
+subordinate - səˈbɔːrdɪnət - 下级的
 pip - pɪp - Pip Installs Packages - Python包管理工具
 NiFi - ˈnaɪfaɪ  - 实时数据流处理系统
 NIKE - ˈnaɪkiː - 耐克
