@@ -388,6 +388,7 @@ parcel - ˈpɑːrs(ə)l - 包裹
 python - ˈpaɪθɑːn - 巨蟒
 pip - pɪp - 种子
 ruby - ˈruːbi - 红宝石
+gem - dʒem - 宝石
 java - ˈdʒɑːvə - 爪哇岛(印度尼西亚);咖啡
 jar - dʒɑːr - 罐子
 war - wɔːr - 战争
@@ -416,6 +417,7 @@ proxy - ˈprɒksi - 代理人
 agent - ˈeɪdʒənt - 经纪人
 scale - skeɪl - 天平;秤
 cluster - ˈklʌstər - 簇(cù)
+bundle - ˈbʌnd(ə)l - 捆;束
 balancer - ˈbælənsər - 平衡器
 bucket - ˈbʌkɪt - 桶
 hub - hʌb - 轮毂中心
@@ -587,4 +589,13 @@ sprint - sprɪnt - 冲刺
 board - bɔːrd - 木板;甲板
 cycle - ˈsaɪk(ə)l - 循环;周期
 helper - ˈhelpər - 助手
+brew - bruː - 酿(啤酒);冲(咖啡);沏(茶)
+formula - ˈfɔːrmjələ - 配方;公式;结构式
+formulae - ˈfɔːrmjəliː - formula的复数形式
+bottle - ˈbɒt(ə)l - 瓶子
+cask - kɑːsk - 木桶
+cellar - ˈselər - 酒窖
+keg - keɡ - 小木桶
+tap - tæp - 水龙头;轻拍
+patch - pætʃ - (衣服)补丁
 ```
