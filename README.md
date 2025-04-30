@@ -586,4 +586,5 @@ profile - ˈproʊfaɪl - 轮廓
 sprint - sprɪnt - 冲刺
 board - bɔːrd - 木板;甲板
 cycle - ˈsaɪk(ə)l - 循环;周期
+helper - ˈhelpər - 助手
 ```
