@@ -601,5 +601,5 @@ keg - keɡ - 小木桶
 tap - tæp - 水龙头;轻拍
 patch - pætʃ - (衣服)补丁
 mermaid - ˈmɜːrmeɪd - 美人鱼
-
+alpine - ˈælpaɪn - 阿尔卑斯山的
 ```
