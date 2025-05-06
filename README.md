@@ -45,6 +45,7 @@ C:
 淬(cuì)火 - 蘸(zhàn)火 - 车间行话故意读zhàn, 避免与"退火"混淆
 痤(cuó)疮 - zuò疮
 创(chuāng)伤 - chuàng伤 - "创"伤口chuāng, 创造chuàng
+蛏(chēng)子
 
 D:
 档(dàng)案 - dǎng案
@@ -337,6 +338,7 @@ premium - ˈpriːmiəm - 高品质的
 ultimate - ˈʌltɪmət - 最终的
 ultra - ˈʌltrə - 极端的
 prime - praɪm - 主要的
+disciplined - ˈdɪsəplɪnd - 遵守纪律的
 ```
 
 ### 中文熟悉 英文陌生
@@ -598,4 +600,6 @@ cellar - ˈselər - 酒窖
 keg - keɡ - 小木桶
 tap - tæp - 水龙头;轻拍
 patch - pætʃ - (衣服)补丁
+mermaid - ˈmɜːrmeɪd - 美人鱼
+
 ```
