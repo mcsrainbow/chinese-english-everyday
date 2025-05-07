@@ -340,7 +340,7 @@ ultimate - ˈʌltɪmət - 最终的
 ultra - ˈʌltrə - 极端的
 prime - praɪm - 主要的
 disciplined - ˈdɪsəplɪnd - 遵守纪律的
-foundry - ˈfaʊndri fown·dree - 铸造
+foundry - ˈfaʊndri fown-dree - 铸造
 ```
 
 ### 中文熟悉 英文陌生
