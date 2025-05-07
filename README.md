@@ -28,6 +28,7 @@ B:
 裨(bì)益 - pí益 - "裨"益处bì, 辅佐(裨将)pí
 布帛(bó) - 布锦(jǐn) - "帛"泛指丝织布料bó, "锦"高级丝织品jǐn
 焙(bèi)烧 - péi烧 - 车间行话故意读péi, 避免与"被烧"混淆
+贲(bēn)门 - 食管与胃之间的单向阀门器官
 
 C:
 参差(cēn cī) - cān cā
@@ -339,6 +340,7 @@ ultimate - ˈʌltɪmət - 最终的
 ultra - ˈʌltrə - 极端的
 prime - praɪm - 主要的
 disciplined - ˈdɪsəplɪnd - 遵守纪律的
+foundry - ˈfaʊndri fown·dree - 铸造
 ```
 
 ### 中文熟悉 英文陌生
