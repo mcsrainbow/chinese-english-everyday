@@ -29,6 +29,7 @@ B:
 布帛(bó) - 布锦(jǐn) - "帛"泛指丝织布料bó, "锦"高级丝织品jǐn
 焙(bèi)烧 - péi烧 - 车间行话故意读péi, 避免与"被烧"混淆
 贲(bēn)门 - 食管与胃之间的单向阀门器官
+孢子(bāozǐ)
 
 C:
 参差(cēn cī) - cān cā
@@ -104,6 +105,7 @@ J:
 僭(jiàn)越 - qiān越
 浸(jìn)出 - qìn出 - 车间行话故意读qìn, 避免与"进出"混淆
 粳(jīng)米 - gēng米
+臼(jiù)齿 - 槽牙;大牙;磨牙
 
 K:
 看(kān)守 - kàn守 - "看"守护kān, 观察kàn
@@ -135,6 +137,7 @@ M:
 蓦(mò)然 - mù然
 耄耋(mào dié)
 静谧(mì) - 静yì
+培养皿(mǐn)
 
 N:
 宁(nìng)可 - níng可 - "宁"难道nìng, 安定níng
@@ -142,6 +145,8 @@ N:
 按捺(nà)不住 - 按nài不住 - "捺"克制nà
 黏(nián)度 - zhān度
 廿(niàn) - gān - "廿"二十
+执拗(niù)
+黏(nián)稠
 
 O:
 
@@ -313,6 +318,7 @@ grok - ɡrɒk / ɡrɑːk - 通过感觉意会
 beaver - ˈbiːvər - 河狸
 Linus - ˈlaɪnəs lai-nuhs - 林纳斯
 Linux - ˈlɪnəks li-nuhks / ˈlaɪnəks / ˈlaɪnʌks - 类Unix操作系统
+fuse - fjuːz - 熔合;保险丝;导火线
 MinIO - mɪn ˈaɪoʊ - 分布式对象存储系统
 Uber - ˈuːbər - 优步, 出行服务公司
 Ubuntu - ʊˈbʊntuː - 乌班图, Linux发行版
@@ -394,6 +400,7 @@ pip - pɪp - 种子
 ruby - ˈruːbi - 红宝石
 gem - dʒem - 宝石
 java - ˈdʒɑːvə - 爪哇岛(印度尼西亚);咖啡
+maven - ˈmeɪvn - 内行
 jar - dʒɑːr - 罐子
 war - wɔːr - 战争
 swagger - ˈswæɡər - 大摇大摆;虚张声势
@@ -425,12 +432,14 @@ bundle - ˈbʌnd(ə)l - 捆;束
 balancer - ˈbælənsər - 平衡器
 bucket - ˈbʌkɪt - 桶
 hub - hʌb - 轮毂中心
+gist - dʒɪst - 要点;主旨
 cloud - klaʊd - 云朵
 caddy - ˈkædi - 小盒子
 formation - fɔːrˈmeɪʃ(ə)n - 编队
 secret - ˈsiːkrət - 秘密
 key - kiː - 钥匙
 lock - lɒk - 锁
+cloak - kloʊk - 斗篷;遮掩物
 dock - dɒk - 码头
 docker - ˈdɒkə(r) - 码头工人
 container - kənˈteɪnər - 集装箱;货柜
@@ -604,4 +613,6 @@ tap - tæp - 水龙头;轻拍
 patch - pætʃ - (衣服)补丁
 mermaid - ˈmɜːrmeɪd - 美人鱼
 alpine - ˈælpaɪn - 阿尔卑斯山的
+manus - ˈmeɪnəs - 手;前肢
+
 ```
