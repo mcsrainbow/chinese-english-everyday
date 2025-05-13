@@ -167,7 +167,6 @@ Q:
 悄(qiǎo)然 - qiāo然
 关卡(qiǎ) - 关kǎ
 
-
 R:
 妊娠(rèn shēn) - 妊chén
 吞噬(shì) - 吞shí
