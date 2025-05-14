@@ -348,6 +348,8 @@ ultra - ˈʌltrə - 极端的
 prime - praɪm - 主要的
 disciplined - ˈdɪsəplɪnd - 遵守纪律的
 foundry - ˈfaʊndri fown-dree - 铸造
+mercurial - mɜːrˈkjʊriəl - 水银;汞
+hydrargyrum - haɪˈdrɑːrdʒərəm hy-drar-jer-uhm - 水银;汞(Hg)
 ```
 
 ### 中文熟悉 英文陌生
