@@ -350,6 +350,7 @@ disciplined - ˈdɪsəplɪnd - 遵守纪律的
 foundry - ˈfaʊndri fown-dree - 铸造
 mercurial - mɜːrˈkjʊriəl - 水银;汞
 hydrargyrum - haɪˈdrɑːrdʒərəm hy-drar-jer-uhm - 水银;汞(Hg)
+wrap - ræp - 裹
 ```
 
 ### 中文熟悉 英文陌生
@@ -617,5 +618,5 @@ patch - pætʃ - (衣服)补丁
 mermaid - ˈmɜːrmeɪd - 美人鱼
 alpine - ˈælpaɪn - 阿尔卑斯山的
 manus - ˈmeɪnəs - 手;前肢
-
+warp - wɔːrp - 使扭曲
 ```
