@@ -307,6 +307,7 @@ U juː    V viː   W ˈdʌbljuː       X eks   Y waɪ   Z ziː
 > 英文词 - 英文发音 - [英文解释] - [中文解释]
 
 ```
+toggle - ˈtɒɡl / ˈtɑːɡl - 切换
 trojan - ˈtroʊdʒən - 特洛伊
 weather - ˈweðər - 天气
 today - təˈdeɪ tuh-day - 今天
