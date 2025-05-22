@@ -167,6 +167,7 @@ Q:
 蹊跷(qī qiāo) - xī跷
 悄(qiǎo)然 - qiāo然
 关卡(qiǎ) - 关kǎ
+神祇(qí) - 神dǐ
 
 R:
 妊娠(rèn shēn) - 妊chén
@@ -307,6 +308,7 @@ U juː    V viː   W ˈdʌbljuː       X eks   Y waɪ   Z ziː
 > 英文词 - 英文发音 - [英文解释] - [中文解释]
 
 ```
+pseudo - ˈsuːdoʊ - 伪装的
 asian -  ˈeɪʒən - 亚洲人
 asia - ˈeɪʒə / ˈeɪʃə - 亚洲
 toggle - ˈtɒɡl / ˈtɑːɡl - 切换
@@ -622,4 +624,5 @@ mermaid - ˈmɜːrmeɪd - 美人鱼
 alpine - ˈælpaɪn - 阿尔卑斯山的
 manus - ˈmeɪnəs - 手;前肢
 warp - wɔːrp - 使扭曲
+pseudo - ˈsuːdoʊ - 伪装的
 ```
