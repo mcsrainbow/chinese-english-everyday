@@ -311,6 +311,8 @@ U juː    V viː   W ˈdʌbljuː       X eks   Y waɪ   Z ziː
 > 英文词 - 英文发音 - [英文解释] - [中文解释]
 
 ```
+deprecated - ˈdeprəkeɪtɪd deh-pruh-kay-tuhd - 已弃用的
+depreciated - dɪˈpriːʃieɪtɪd di-pree-shee-ay-tuhd - 折旧的;贬值的
 Levi - ˈliːvaɪ
 oxide - ˈɑːksaɪd / ˈɑːksaɪd - 氧化物
 pseudo - ˈsuːdoʊ - 伪装的
