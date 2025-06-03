@@ -189,6 +189,7 @@ T:
 坍(tān)塌 - dān塌
 骰(tóu)子 - shǎi子 - "骰"tóu, 方言音shǎi
 纷至沓(tà)来
+砼(tóng) - 混凝(níng)土
 
 W:
 唯唯(wěi/wéi)诺诺
@@ -311,6 +312,7 @@ U juː    V viː   W ˈdʌbljuː       X eks   Y waɪ   Z ziː
 > 英文词 - 英文发音 - [英文解释] - [中文解释]
 
 ```
+ephemeral - ɪˈfemərəl - 短命的
 modal - ˈmoʊdl - 模式的;情态的
 model - ˈmɒdl - 模型;模范;模特
 deprecated - ˈdeprəkeɪtɪd deh-pruh-kay-tuhd - 已弃用的
