@@ -313,6 +313,7 @@ U juː    V viː   W ˈdʌbljuː       X eks   Y waɪ   Z ziː
 > 英文词 - 英文发音 - [英文解释] - [中文解释]
 
 ```
+asynchronous - eɪˈsɪŋkrənəs ay-sing-kruh-nuhs - 异步的
 module - ˈmɒdjuːl mo-jool - 模块
 ephemeral - ɪˈfemərəl - 短命的
 modal - ˈmoʊdl - 模式的;情态的
