@@ -294,7 +294,7 @@ U juː    V viː   W ˈdʌbljuː       X eks   Y waɪ   Z ziː
 | -------- | ---------- | ------- | -------- | ------ | --------- | ------ | ------------ |
 | iː       | t**ea**    | eɪ      | d**ay**  | p      | **p**en   | b      | **b**ook     |
 | ɪ        | s**i**t    | əʊ / oʊ | g**o**   | t      | **t**en   | d      | **d**esk     |
-| e        | r**e**d    | ɪə / ɪr | b**eer** | k      | **c**at   | g      | **g**et      |
+| e        | b**e**d    | ɪə / ɪr | b**eer** | k      | **c**at   | g      | **g**et      |
 | æ        | **a**pple  | aɪ      | p**ie**  | f      | **f**un   | v      | **v**ery     |
 | ɑː       | sp**a**    | aʊ      | h**ow**  | s      | **s**ay   | z      | **z**oo      |
 | ɔː       | s**aw**    | ɔɪ      | b**oy**  | θ      | **th**ank | ð      | **th**is     |
