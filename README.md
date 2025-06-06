@@ -316,6 +316,7 @@ U juː    V viː   W ˈdʌbljuː       X eks   Y waɪ   Z ziː
 > 英文词 - 英文发音 - [英文解释] - [中文解释]
 
 ```
+pleasure - ˈpleʒər pleh-zhr - 乐意
 asynchronous - eɪˈsɪŋkrənəs ay-sing-kruh-nuhs - 异步的
 module - ˈmɒdjuːl mo-jool - 模块
 ephemeral - ɪˈfemərəl - 短命的
