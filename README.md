@@ -318,7 +318,7 @@ U juː    V viː   W ˈdʌbljuː       X eks   Y waɪ   Z ziː
 ```
 pleasure - ˈpleʒər pleh-zhr - 乐意
 asynchronous - eɪˈsɪŋkrənəs ay-sing-kruh-nuhs - 异步的
-module - ˈmɒdjuːl mo-jool - 模块
+module - ˈmɒdjuːl mo-jool / ˈmɑːdʒuːl maa-jool - 模块
 ephemeral - ɪˈfemərəl - 短命的
 modal - ˈmoʊdl - 模式的;情态的
 model - ˈmɒdl - 模型;模范;模特
