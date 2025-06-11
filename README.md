@@ -72,7 +72,7 @@ G:
 勾(gòu)当 - gōu当 - "勾"劣迹/姓氏gòu, 钩gōu
 冠(guān)心病 - guàn心病 - "冠"帽子guān, 冠军guàn
 粗犷(guǎng) - 粗kuàng - "犷"野蛮
-桎梏(gù) - 桎gào
+桎梏(zhì gù) - 桎gào
 鳜(guì)鱼 - jué鱼
 镀铬(gè) - 镀luó - 车间行话故意读luó, 避免与镉(gé)混淆
 玫瑰(guī) - 玫guì
@@ -110,6 +110,7 @@ J:
 粳(jīng)米 - gēng米
 臼(jiù)齿 - 槽牙;大牙;磨牙
 校(jiào)对 - xiào对
+羁绊(jī bàn)
 
 K:
 看(kān)守 - kàn守 - "看"守护kān, 观察kàn
@@ -130,6 +131,7 @@ L:
 醪(láo)糟 - liáo糟
 鬣(liè)狗 - "鬣"头颈上的毛
 削足适履(lǚ) - 削足适fù
+嫪毐(lào ǎi)
 
 M:
 模(mú)样 - mó样
@@ -173,6 +175,7 @@ Q:
 悄(qiǎo)然 - qiāo然
 关卡(qiǎ) - 关kǎ
 神祇(qí) - 神dǐ
+张骞(qiān)
 
 R:
 妊娠(rèn shēn) - 妊chén
@@ -319,6 +322,7 @@ U juː    V viː   W ˈdʌbljuː       X eks   Y waɪ   Z ziː
 > 英文词 - 英文音标 [简化发音拼写] - [英文解释] - [中文解释]
 
 ```
+entrepreneur - ˌɑːntrəprəˈnɜːr on-truh-pruh-nuh - 企业家
 pleasure - ˈpleʒər pleh-zhr - 乐意
 asynchronous - eɪˈsɪŋkrənəs ay-sing-kruh-nuhs - 异步的
 module - ˈmɒdjuːl mo-jool / ˈmɑːdʒuːl maa-jool - 模块
