@@ -322,6 +322,7 @@ U juː    V viː   W ˈdʌbljuː       X eks   Y waɪ   Z ziː
 > 英文词 - 英文音标 [简化发音拼写] - [英文解释] - [中文解释]
 
 ```
+enrolled - ɪnˈroʊld - 登记
 entrepreneur - ˌɑːntrəprəˈnɜːr on-truh-pruh-nuh - 企业家
 pleasure - ˈpleʒər pleh-zhr - 乐意
 asynchronous - eɪˈsɪŋkrənəs ay-sing-kruh-nuhs - 异步的
