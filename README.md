@@ -652,5 +652,5 @@ manus - ˈmeɪnəs - 手;前肢
 warp - wɔːrp - 使扭曲
 pseudo - ˈsuːdoʊ - 伪装的
 kitty - ˈkɪti - 小猫
-kitten - ˈkɪtən - 幼猫
+kitten - ˈkɪt(ə)n - 幼猫
 ```
