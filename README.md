@@ -416,7 +416,7 @@ branch - bræntʃ - 树枝
 fork - fɔːrk - 餐叉
 blob - blɒb - 滴(液体)
 clone - kloʊn - 克隆
-commit - kəˈmɪt - 承诺
+commit - kəˈmɪt - 承诺;犯罪
 shard - ʃɑːrd - 碎片
 hook - hʊk - 钩
 build - bɪld - 建造
@@ -579,6 +579,7 @@ race - reɪs - 赛跑;种族
 spawn - spɔːn - 产卵
 acid - ˈæsɪd - 酸
 array - əˈreɪ - 排列
+dict - dɪkt - 词典
 macro - ˈmækroʊ - 宏观的
 query - ˈkwɪri - 询问
 crash - kræʃ - 撞车
@@ -656,4 +657,21 @@ pseudo - ˈsuːdoʊ - 伪装的
 kitty - ˈkɪti - 小猫
 kitten - ˈkɪt(ə)n - 幼猫
 steam - stiːm - 蒸汽
+anchor - ˈæŋkər - (船)锚
+backup - ˈbækʌp - 后援
+blade - bleɪd - 刀片
+canvas - ˈkænvəs - 帆布;画布
+cell - sel - 细胞
+code - koʊd - 法典
+clip - klɪp - 夹子;回形针
+context - ˈkɑːntekst - 上下文
+frame - freɪm - 边框;框架
+mask - mæsk - 口罩
+tablet - ˈtæblət - 药片
+torrent - ˈtɔːrənt - 激流
+transaction - trænˈzækʃ(ə)n - 交易
+view - vjuː - 观点;风景
+wave - weɪv - 挥动;波浪形
+wizard - ˈwɪzərd - 巫师
+worm - wɜːrm - 蠕虫
 ```
