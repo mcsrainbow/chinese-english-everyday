@@ -654,4 +654,5 @@ warp - wɔːrp - 使扭曲
 pseudo - ˈsuːdoʊ - 伪装的
 kitty - ˈkɪti - 小猫
 kitten - ˈkɪt(ə)n - 幼猫
+steam - stiːm - 蒸汽
 ```
