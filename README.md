@@ -325,7 +325,7 @@ U juː    V viː   W ˈdʌbljuː       X eks   Y waɪ   Z ziː
 > 英文词 - 英文音标 [简化发音拼写] - [英文解释] - [中文解释]
 
 ```
-avatar - ˈævətɑːr - 化身
+avatar - ˈævətɑːr - 化身;阿凡达
 menu - ˈmenjuː - 菜单
 augment - ɔːɡˈment - 增大
 fatal - ˈfeɪt(ə)l - 致命的
