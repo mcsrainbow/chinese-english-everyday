@@ -686,4 +686,5 @@ gemini - ˈdʒemɪni - 双子星座
 gemma - ˈdʒemə - 胞芽
 alphabet - ˈælfəbet - 字母表
 llama - ˈlɑːmə - 羊驼
+scrum - skrʌm - 争球(橄榄球比赛)
 ```
