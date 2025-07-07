@@ -644,6 +644,7 @@ port - pɔːrt - 港口
 socket - ˈsɒkɪt - 插座
 bridge - brɪdʒ - 桥
 profile - ˈproʊfaɪl - 轮廓
+scrum - skrʌm - 争球(橄榄球比赛)
 sprint - sprɪnt - 冲刺
 board - bɔːrd - 木板;甲板
 cycle - ˈsaɪk(ə)l - 循环;周期
@@ -686,5 +687,4 @@ gemini - ˈdʒemɪni - 双子星座
 gemma - ˈdʒemə - 胞芽
 alphabet - ˈælfəbet - 字母表
 llama - ˈlɑːmə - 羊驼
-scrum - skrʌm - 争球(橄榄球比赛)
 ```
