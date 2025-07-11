@@ -692,4 +692,5 @@ alphabet - ˈælfəbet - 字母表
 llama - ˈlɑːmə - 羊驼
 prompt - prɒmpt - (给演员的)提示台词
 sentry - ˈsentri - 哨兵
+canonical - kəˈnɑːnɪkl - 典范的
 ```
