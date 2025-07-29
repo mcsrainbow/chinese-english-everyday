@@ -81,6 +81,7 @@ G:
 镀铬(gè) - 镀luó - 车间行话故意读luó, 避免与镉(gé)混淆
 玫瑰(guī) - 玫guì
 羽扇纶(guān)巾(jīn) - 羽扇lún巾
+扎尕(zhā gǎ)
 
 H:
 哈(hǎ)巴狗 - hā巴狗, "哈"傻hǎ, 呼气hā, 喝hē
@@ -332,6 +333,7 @@ U juː    V viː   W ˈdʌbljuː       X eks   Y waɪ   Z ziː
 > 英文词 - 英文音标 [简化发音拼写] - [英文解释] - [中文解释]
 
 ```
+cellular - ˈseljələr sel-yuh-lr - 细胞的;蜂窝状的;高速数据网络
 horizontal - ˌhɔːrɪˈzɑːnt(ə)l - 水平的
 avatar - ˈævətɑːr - 化身;阿凡达
 menu - ˈmenjuː - 菜单
@@ -698,4 +700,5 @@ llama - ˈlɑːmə - 羊驼
 prompt - prɒmpt - (给演员的)提示台词
 sentry - ˈsentri - 哨兵
 canonical - kəˈnɑːnɪkl - 典范的
+kettle - ˈket(ə)l - 水壶
 ```
