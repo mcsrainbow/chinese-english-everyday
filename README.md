@@ -125,6 +125,7 @@ K:
 揩(kāi)油 - kǎi油
 纨绔(kù) - 纨kuà
 喟(kuì)然 - wèi然
+蛞蝓(kuò yú) - shé yú
 
 L:
 连累(lěi) - 连lèi - "累"堆积lěi, 疲乏lèi
@@ -702,4 +703,5 @@ prompt - prɒmpt - (给演员的)提示台词
 sentry - ˈsentri - 哨兵
 canonical - kəˈnɑːnɪkl - 典范的
 kettle - ˈket(ə)l - 水壶
+slug - slʌɡ - 鼻涕虫
 ```
