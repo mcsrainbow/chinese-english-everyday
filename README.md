@@ -717,7 +717,7 @@ cinder - ˈsɪndər - 煤渣;灰烬
 heat - hiːt - 热量
 horizon - həˈraɪz(ə)n - 地平线
 ceilometer - siːˈlɑːmətər - 云层高度仪
-blazar - ˈbleɪ.zər - 耀变体(中心含有超大质量黑洞的星系)
+blazar - ˈbleɪzər - 耀变体(中心含有超大质量黑洞的星系)
 placement - ˈpleɪsmənt - 布局;收容所
 watcher - ˈwɑːtʃər - 观察者
 designate - ˈdezɪɡneɪt - 任命;指定
