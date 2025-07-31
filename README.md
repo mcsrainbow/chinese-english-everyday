@@ -706,4 +706,22 @@ sentry - ˈsentri - 哨兵
 canonical - kəˈnɑːnɪkl - 典范的
 kettle - ˈket(ə)l - 水壶
 slug - slʌɡ - 鼻涕虫
+glance - ɡlæns - 一瞥;看一眼
+nova - ˈnoʊvə - [天]新星
+neutron - ˈnuːtrɑːn - [核]中子
+ironic - aɪˈrɑːnɪk - 讽刺的
+trove - troʊv - 藏品;宝库
+swift - swɪft - 迅速的;聪明的
+Sahara - səˈheərər - 撒哈拉沙漠
+cinder - ˈsɪndər - 煤渣;灰烬
+heat - hiːt - 热量
+horizon - həˈraɪz(ə)n - 地平线
+ceilometer - siːˈlɑːmətər - 云层高度仪
+blazar - ˈbleɪ.zər - 耀变体(中心含有超大质量黑洞的星系)
+placement - ˈpleɪsmənt - 布局;收容所
+watcher - ˈwɑːtʃər - 观察者
+designate - ˈdezɪɡneɪt - 任命;指定
+magnum - ˈmæɡnəm - 大酒瓶
+opus - ˈoʊpəs - 作品
+sonnet - ˈsɑːnɪt - 十四行诗
 ```
