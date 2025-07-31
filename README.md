@@ -502,6 +502,7 @@ dock - dɒk - 码头
 docker - ˈdɒkə(r) - 码头工人
 container - kənˈteɪnər - 集装箱;货柜
 pod - pɒd - 豆荚
+sidecar - ˈsaɪdkɑːr - 边车;加挂车
 bean - biːn - 豆子
 kubernetes - kuːbəˈneɪtiːz koo-br-neh-teez - 舵手(希腊语)
 istio - iss-tee-oh - 航行(希腊语)
