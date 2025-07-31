@@ -334,6 +334,7 @@ U juː    V viː   W ˈdʌbljuː       X eks   Y waɪ   Z ziː
 > 英文词 - 英文音标 [简化发音拼写] - [英文解释] - [中文解释]
 
 ```
+agile - ˈædʒaɪl a-jile / ˈædʒ(ə)l a-jl - 敏捷
 miscellaneous - ˌmɪsəˈleɪniəs - 混杂的
 cellular - ˈseljələr sel-yuh-lr - 细胞的;蜂窝状的;高速数据网络
 horizontal - ˌhɔːrɪˈzɑːnt(ə)l - 水平的
