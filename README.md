@@ -724,4 +724,5 @@ designate - ˈdezɪɡneɪt - 任命;指定
 magnum - ˈmæɡnəm - 大酒瓶
 opus - ˈoʊpəs - 作品
 sonnet - ˈsɑːnɪt - 十四行诗
+canary - kəˈneri - 金丝雀
 ```
