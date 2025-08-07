@@ -727,4 +727,5 @@ opus - ˈoʊpəs - 作品
 sonnet - ˈsɑːnɪt - 十四行诗
 canary - kəˈneri - 金丝雀
 bearer - ˈberər - 持票人
+macro - ˈmækroʊ - 大规模的
 ```
