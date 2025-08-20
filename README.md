@@ -728,4 +728,5 @@ sonnet - ˈsɑːnɪt - 十四行诗
 canary - kəˈneri - 金丝雀
 bearer - ˈberər - 持票人
 macro - ˈmækroʊ - 大规模的
+cilium - ˈsɪliəm - [生物]纤毛;睫毛
 ```
