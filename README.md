@@ -334,6 +334,8 @@ U juː    V viː   W ˈdʌbljuː       X eks   Y waɪ   Z ziː
 > 英文词 - 英文音标 [简化发音拼写] - [英文解释] - [中文解释]
 
 ```
+circumstances - ˈsɜːrkəmstænsɪz - 境况
+vibe - vaɪb - 氛围
 bogon - ˈbɒɡən - 不应该出现在互联网路由表中的IP地址
 agile - ˈædʒaɪl a-jile / ˈædʒ(ə)l a-jl - 敏捷
 miscellaneous - ˌmɪsəˈleɪniəs - 混杂的
