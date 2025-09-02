@@ -416,7 +416,7 @@ wrap - ræp - 裹
 
 ```
 旗舰 - ˈflæɡʃɪp - flagship
-
+有氧运动 - ˈkɑːrdioʊ - cardio
 ```
 
 ### 术语词汇 通用含义
