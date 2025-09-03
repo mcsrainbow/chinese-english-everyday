@@ -734,4 +734,5 @@ canary - kəˈneri - 金丝雀
 bearer - ˈberər - 持票人
 macro - ˈmækroʊ - 大规模的
 cilium - ˈsɪliəm - [生物]纤毛;睫毛
+staging - ˈsteɪdʒɪŋ - 舞台预备区(等待上场)
 ```
