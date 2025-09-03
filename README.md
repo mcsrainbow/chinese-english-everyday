@@ -334,6 +334,7 @@ U juː    V viː   W ˈdʌbljuː       X eks   Y waɪ   Z ziː
 > 英文词 - 英文音标 [简化发音拼写] - [英文解释] - [中文解释]
 
 ```
+memoir - ˈmemwɑːr - 回忆录
 circumstances - ˈsɜːrkəmstænsɪz - 境况
 vibe - vaɪb - 氛围
 bogon - ˈbɒɡən - 不应该出现在互联网路由表中的IP地址
