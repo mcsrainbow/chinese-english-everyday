@@ -735,4 +735,5 @@ bearer - ˈberər - 持票人
 macro - ˈmækroʊ - 大规模的
 cilium - ˈsɪliəm - [生物]纤毛;睫毛
 staging - ˈsteɪdʒɪŋ - 舞台预备区(等待上场)
+production - prəˈdʌkʃn - 生产;上演
 ```
