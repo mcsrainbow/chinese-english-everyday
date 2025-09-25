@@ -337,6 +337,8 @@ U juː    V viː   W ˈdʌbljuː       X eks   Y waɪ   Z ziː
 > 英文词 - 英文音标 [简化发音拼写] - [英文解释] - [中文解释]
 
 ```
+surprised - sərˈpraɪzd - 惊讶的
+suppressed - səˈprest - 被抑制的
 roar - rɔːr - 吼叫
 whining - ˈwaɪnɪŋ - 抱怨;发牢骚
 captcha - ˈkæptʃə - 验证码
