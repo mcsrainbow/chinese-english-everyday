@@ -117,6 +117,7 @@ J:
 臼(jiù)齿 - 槽牙;大牙;磨牙
 校(jiào)对 - xiào对
 羁绊(jī bàn)
+波谲(jué)云诡 - 事物变幻莫测，就像云彩和波浪一样姿态万千
 
 K:
 看(kān)守 - kàn守 - "看"守护kān, 观察kàn
@@ -334,6 +335,8 @@ U juː    V viː   W ˈdʌbljuː       X eks   Y waɪ   Z ziː
 > 英文词 - 英文音标 [简化发音拼写] - [英文解释] - [中文解释]
 
 ```
+roar - rɔːr - 吼叫
+whining - ˈwaɪnɪŋ - 抱怨;发牢骚
 captcha - ˈkæptʃə - 验证码
 memoir - ˈmemwɑːr - 回忆录
 circumstances - ˈsɜːrkəmstænsɪz - 境况
@@ -737,4 +740,6 @@ macro - ˈmækroʊ - 大规模的
 cilium - ˈsɪliəm - [生物]纤毛;睫毛
 staging - ˈsteɪdʒɪŋ - 舞台预备区(等待上场)
 production - prəˈdʌkʃn - 生产;上演
+obsidian - əbˈsɪdiən - 黑曜石
+clerk - klɜːrk - 店员;职员
 ```
