@@ -712,7 +712,7 @@ view - vjuː - 观点;风景
 wave - weɪv - 挥动;波浪形
 wizard - ˈwɪzərd - 巫师
 worm - wɜːrm - 蠕虫
-gemini - ˈdʒemɪni - 双子星座
+gemini - ˈdʒemɪnaɪ - 双子星座
 gemma - ˈdʒemə - 胞芽
 alphabet - ˈælfəbet - 字母表
 llama - ˈlɑːmə - 羊驼
