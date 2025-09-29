@@ -337,7 +337,6 @@ U juː    V viː   W ˈdʌbljuː       X eks   Y waɪ   Z ziː
 > 英文词 - 英文音标 [简化发音拼写] - [英文解释] - [中文解释]
 
 ```
-perplexity - pərˈpleksəti - 困惑;茫然
 supreme - suˈpriːm - 至高无上的
 surprised - sərˈpraɪzd - 惊讶的
 suppressed - səˈprest - 被抑制的
@@ -748,4 +747,5 @@ staging - ˈsteɪdʒɪŋ - 舞台预备区(等待上场)
 production - prəˈdʌkʃn - 生产;上演
 obsidian - əbˈsɪdiən - 黑曜石
 clerk - klɜːrk - 店员;职员
+perplexity - pərˈpleksəti - 困惑;茫然
 ```
