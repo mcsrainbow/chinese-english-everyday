@@ -337,6 +337,7 @@ U juː    V viː   W ˈdʌbljuː       X eks   Y waɪ   Z ziː
 > 英文词 - 英文音标 [简化发音拼写] - [英文解释] - [中文解释]
 
 ```
+cadence - ˈkeɪd(ə)ns - 节奏
 supreme - suˈpriːm - 至高无上的
 surprised - sərˈpraɪzd - 惊讶的
 suppressed - səˈprest - 被抑制的
