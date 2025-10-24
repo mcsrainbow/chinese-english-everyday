@@ -749,4 +749,5 @@ production - prəˈdʌkʃn - 生产;上演
 obsidian - əbˈsɪdiən - 黑曜石
 clerk - klɜːrk - 店员;职员
 perplexity - pərˈpleksəti - 困惑;茫然
+acrobat - ˈækrəbæt - 杂技演员
 ```
