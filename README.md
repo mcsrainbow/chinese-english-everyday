@@ -82,6 +82,7 @@ G:
 玫瑰(guī) - 玫guì
 羽扇纶(guān)巾(jīn) - 羽扇lún巾
 扎尕(zhā gǎ)
+粿(guǒ)条
 
 H:
 哈(hǎ)巴狗 - hā巴狗, "哈"傻hǎ, 呼气hā, 喝hē
@@ -244,7 +245,9 @@ Y:
 苑(yuàn) - wǎn - "苑"园林
 吊唁(yàn) - 吊yán
 一望无垠(yín)
+莜(yóu)面
 自怜自艾(yì) - "自怜"悔恨自责, "艾"通"乂", 改正
+旖旎(yǐ nǐ) - 柔和美好, 婀娜多姿的样子
 
 Z:
 咋(zé)舌 - zhà舌
@@ -750,4 +753,7 @@ obsidian - əbˈsɪdiən - 黑曜石
 clerk - klɜːrk - 店员;职员
 perplexity - pərˈpleksəti - 困惑;茫然
 acrobat - ˈækrəbæt - 杂技演员
+anthropic - ænˈθrɒpɪk / ænˈθrɑːpɪk - 有关人类的
+utterance - ˈʌtərəns - 言论
+infinity - ɪnˈfɪnəti - 无穷
 ```
