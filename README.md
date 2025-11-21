@@ -760,4 +760,6 @@ infinity - ɪnˈfɪnəti - 无穷
 scratch - skrætʃ - 抓,挠;起跑线
 drill - drɪl - 钻孔;演习
 pour - pɔːr - 注,倒
+caveat - ˈkæviæt - 提醒
+decimal - ˈdesɪm(ə)l - 小数(十进制)
 ```
