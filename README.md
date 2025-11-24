@@ -773,4 +773,7 @@ chromium - ˈkroʊmiəm - 铬(gè)元素
 atlas - ˈætləs - 地图册
 comet - ˈkɑːmɪt - 彗星
 flare - fler - 闪耀的光
+excel - ɪkˈsel - 精通
+beyond - bɪˈjɑːnd - 超出
+playground - ˈpleɪɡraʊnd - 游乐场
 ```
