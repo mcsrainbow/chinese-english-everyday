@@ -698,6 +698,7 @@ alpine - ˈælpaɪn - 阿尔卑斯山的
 manus - ˈmeɪnəs - 手;前肢
 warp - wɔːrp - 使扭曲
 pseudo - ˈsuːdoʊ - 伪装的
+ghost - ɡoʊst - 幽灵
 kitty - ˈkɪti - 小猫
 kitten - ˈkɪt(ə)n - 幼猫
 steam - stiːm - 蒸汽
@@ -769,4 +770,7 @@ blink - blɪŋk - 眨眼
 safari - səˈfɑːri - 狩猎旅行
 chrome - kroʊm - 铬(gè)合金
 chromium - ˈkroʊmiəm - 铬(gè)元素
+atlas - ˈætləs - 地图册
+comet - ˈkɑːmɪt - 彗星
+flare - fler - 闪耀的光
 ```
