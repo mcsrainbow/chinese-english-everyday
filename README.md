@@ -762,4 +762,10 @@ drill - drɪl - 钻孔;演习
 pour - pɔːr - 注,倒
 caveat - ˈkæviæt - 提醒
 decimal - ˈdesɪm(ə)l - 小数(十进制)
+quantum - ˈkwɑːntəm - 量子
+gecko - ˈɡekoʊ - 壁虎
+blink - blɪŋk - 眨眼
+safari - səˈfɑːri - 狩猎旅行
+chrome - kroʊm - 铬(gè)合金
+chromium - ˈkroʊmiəm - 铬(gè)元素
 ```
