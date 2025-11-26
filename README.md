@@ -828,4 +828,5 @@ slime - slaɪm - 黏液
 soda - ˈsoʊdə - 苏打
 arc - ɑːrk - 弧形
 deck - dek - 甲板
+feign - feɪn - 假装
 ```
