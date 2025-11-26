@@ -829,4 +829,5 @@ soda - ˈsoʊdə - 苏打
 arc - ɑːrk - 弧形
 deck - dek - 甲板
 feign - feɪn - 假装
+virtu - vərˈtuː - 古董;艺术品爱好
 ```
