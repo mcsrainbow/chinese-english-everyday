@@ -340,6 +340,7 @@ U juː    V viː   W ˈdʌbljuː       X eks   Y waɪ   Z ziː
 > 英文词 - 英文音标 [简化发音拼写] - [英文解释] - [中文解释]
 
 ```
+Evan - ˈevən - 埃文[男]
 anxiety - æŋˈzaɪəti - 焦虑
 alumni - əˈlʌmnaɪ - 校友
 cadence - ˈkeɪd(ə)ns - 节奏
