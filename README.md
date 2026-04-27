@@ -342,6 +342,7 @@ U juː    V viː   W ˈdʌbljuː       X eks   Y waɪ   Z ziː
 > 英文词 - 英文音标 [简化发音拼写] - [英文解释] - [中文解释]
 
 ```
+ammo - ˈæmoʊ - 弹药
 debt - det - 债务
 Evan - ˈevən - 埃文[男]
 anxiety - æŋˈzaɪəti - 焦虑
@@ -835,4 +836,5 @@ arc - ɑːrk - 弧形
 deck - dek - 甲板
 feign - feɪn - 假装
 virtu - vərˈtuː - 古董;艺术品爱好
+angular - ˈæŋɡjələr - 有角的
 ```
