@@ -839,4 +839,5 @@ virtu - vərˈtuː - 古董;艺术品爱好
 angular - ˈæŋɡjələr - 有角的
 mythos - ˈmaɪθɒs / ˈmaɪθɑːs - 神话
 tun - tʌn - 大酒桶
+voyage - ˈvɔɪɪdʒ - 航行
 ```
