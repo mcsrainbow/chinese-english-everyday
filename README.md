@@ -840,4 +840,7 @@ angular - ˈæŋɡjələr - 有角的
 mythos - ˈmaɪθɒs / ˈmaɪθɑːs - 神话
 tun - tʌn - 大酒桶
 voyage - ˈvɔɪɪdʒ - 航行
+zig - zɪɡ - 急转
+zen - zen - 禅
+claw - klɔː - 爪;钳
 ```
