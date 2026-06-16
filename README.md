@@ -843,4 +843,8 @@ voyage - ˈvɔɪɪdʒ - 航行
 zig - zɪɡ - 急转
 zen - zen - 禅
 claw - klɔː - 爪;钳
+playwright - ˈpleɪraɪt - 剧作家
+stylist - ˈstaɪlɪst - 设计师
+lint - lɪnt - 绷带用麻布
+shim - ʃɪm - 薄垫片
 ```
