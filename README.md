@@ -847,4 +847,7 @@ playwright - ˈpleɪraɪt - 剧作家
 stylist - ˈstaɪlɪst - 设计师
 lint - lɪnt - 绷带用麻布
 shim - ʃɪm - 薄垫片
+sol - sɒl / soʊl - 太阳(拉丁语)
+terra - ˈterə - 地球(拉丁语)
+luna - ˈluːnə - 月亮(拉丁语)
 ```
