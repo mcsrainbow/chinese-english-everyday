@@ -393,7 +393,6 @@ subordinate - səˈbɔːrdɪnət - 下级的
 pip - pɪp - Pip Installs Packages - Python包管理工具
 NiFi - ˈnaɪfaɪ  - 实时数据流处理系统
 NIKE - ˈnaɪkiː - 耐克
-grok - ɡrɒk / ɡrɑːk - 通过感觉意会
 beaver - ˈbiːvər - 河狸
 Linus - ˈlaɪnəs lai-nuhs - 林纳斯
 Linux - ˈlɪnəks li-nuhks / ˈlaɪnəks / ˈlaɪnʌks - 类Unix操作系统
@@ -752,8 +751,6 @@ placement - ˈpleɪsmənt - 布局;收容所
 watcher - ˈwɑːtʃər - 观察者
 designate - ˈdezɪɡneɪt - 任命;指定
 magnum - ˈmæɡnəm - 大酒瓶
-opus - ˈoʊpəs - 作品
-sonnet - ˈsɑːnɪt - 十四行诗
 canary - kəˈneri - 金丝雀
 bearer - ˈberər - 持票人
 macro - ˈmækroʊ - 大规模的
@@ -764,7 +761,6 @@ obsidian - əbˈsɪdiən - 黑曜石
 clerk - klɜːrk - 店员;职员
 perplexity - pərˈpleksəti - 困惑;茫然
 acrobat - ˈækrəbæt - 杂技演员
-anthropic - ænˈθrɒpɪk / ænˈθrɑːpɪk - 有关人类的
 utterance - ˈʌtərəns - 言论
 infinity - ɪnˈfɪnəti - 无穷
 scratch - skrætʃ - 抓,挠;起跑线
@@ -837,7 +833,6 @@ deck - dek - 甲板
 feign - feɪn - 假装
 virtu - vərˈtuː - 古董;艺术品爱好
 angular - ˈæŋɡjələr - 有角的
-mythos - ˈmaɪθɒs / ˈmaɪθɑːs - 神话
 tun - tʌn - 大酒桶
 voyage - ˈvɔɪɪdʒ - 航行
 zig - zɪɡ - 急转
@@ -847,8 +842,16 @@ playwright - ˈpleɪraɪt - 剧作家
 stylist - ˈstaɪlɪst - 设计师
 lint - lɪnt - 绷带用麻布
 shim - ʃɪm - 薄垫片
+aurora - ɔːˈrɔːrə - 极光;奥罗拉/欧若拉(古罗马神话中的黎明女神)
+anthropic - ænˈθrɒpɪk / ænˈθrɑːpɪk - 有关人类的
+claude - klɔːd - 克劳德(致敬信息论之父, 美国数学家, 电子工程师 Claude Shannon)
+opus - ˈoʊpəs - 作品
+sonnet - ˈsɑːnɪt - 十四行诗
+haiku - ˈhaɪkuː - 三行俳(pái)句诗
+mythos - ˈmaɪθɒs / ˈmaɪθɑːs - 神话
+fable - ˈfeɪb(ə)l - 寓言
 sol - sɒl / soʊl - 太阳(拉丁语)
 terra - ˈterə - 地球(拉丁语)
 luna - ˈluːnə - 月亮(拉丁语)
-aurora - ɔːˈrɔːrə - 极光;奥罗拉/欧若拉(古罗马神话中的黎明女神)
+slop - slɒp / slɑːp - 泔(gān)水;潲水(shào);垃圾
 ```
