@@ -854,4 +854,5 @@ sol - sɒl / soʊl - 太阳(拉丁语)
 terra - ˈterə - 地球(拉丁语)
 luna - ˈluːnə - 月亮(拉丁语)
 slop - slɒp / slɑːp - 泔(gān)水;潲水(shào);垃圾
+parquet - pɑːrˈkeɪ - 镶木地板
 ```
