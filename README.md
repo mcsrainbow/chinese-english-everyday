@@ -850,9 +850,10 @@ sonnet - ˈsɑːnɪt - 十四行诗
 haiku - ˈhaɪkuː - 三行俳(pái)句诗
 mythos - ˈmaɪθɒs / ˈmaɪθɑːs - 神话
 fable - ˈfeɪb(ə)l - 寓言
-sol - sɒl / soʊl - 太阳(拉丁语)
-terra - ˈterə - 地球(拉丁语)
 luna - ˈluːnə - 月亮(拉丁语)
+terra - ˈterə - 地球(拉丁语)
+sol - sɒl / soʊl - 太阳(拉丁语)
+astra - ˈæstrə - 群星;星辰(拉丁语)
 slop - slɒp / slɑːp - 泔(gān)水;潲水(shào);垃圾
 parquet - pɑːrˈkeɪ - 镶木地板
 ```
