@@ -857,4 +857,5 @@ sol - sɒl / soʊl - 太阳(拉丁语)
 astra - ˈæstrə - 群星;星辰(拉丁语)
 slop - slɒp / slɑːp - 泔(gān)水;潲水(shào);垃圾
 parquet - pɑːrˈkeɪ - 镶木地板
+putty - ˈpʌti - 油灰;腻子
 ```
