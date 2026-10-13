@@ -520,6 +520,7 @@ bucket - ˈbʌkɪt - 桶
 hub - hʌb - 轮毂中心
 gist - dʒɪst - 要点;主旨
 cloud - klaʊd - 云朵
+image - ˈɪmɪdʒ - 图像
 caddy - ˈkædi - 茶叶盒
 formation - fɔːrˈmeɪʃ(ə)n - 编队
 secret - ˈsiːkrət - 秘密
