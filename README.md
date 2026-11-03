@@ -831,6 +831,7 @@ ease - iːz - 容易,舒适
 slime - slaɪm - 黏液
 soda - ˈsoʊdə - 苏打
 arc - ɑːrk - 弧形
+dia - ˈdiə - 迪亚(人名);直径
 deck - dek - 甲板
 feign - feɪn - 假装
 virtu - vərˈtuː - 古董;艺术品爱好
