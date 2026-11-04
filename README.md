@@ -863,4 +863,5 @@ parquet - pɑːrˈkeɪ - 镶木地板
 putty - ˈpʌti - 油灰;腻子
 amber - ˈæmbər - 琥珀;琥珀色
 bedrock - ˈbedrɑːk - (地质)基岩
+crest - krest - (山)顶,(浪)峰;(家族/城镇/机构)饰章,徽章;羽冠
 ```
