@@ -730,6 +730,7 @@ wizard - ˈwɪzərd - 巫师
 worm - wɜːrm - 蠕虫
 gemini - ˈdʒemɪnaɪ - 双子星座
 gemma - ˈdʒemə - 胞芽
+argon - ˈɑːrɡɑːn - 氩
 carbon - ˈkɑːrbən - 碳
 alphabet - ˈælfəbet - 字母表
 llama - ˈlɑːmə - 羊驼
