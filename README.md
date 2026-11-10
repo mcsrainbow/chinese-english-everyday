@@ -869,6 +869,5 @@ dit - dɪt - (摩尔斯电码)点,短音
 mackintosh - ˈmækɪntɑːʃ - 雨衣
 flask - flæsk - 烧瓶;长颈瓶
 ranger - ˈreɪndʒər - 护林员
-carbon - ˈkɑːrbən - 碳
 jupiter - ˈdʒuːpɪtər - 木星
 ```
