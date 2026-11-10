@@ -866,4 +866,9 @@ amber - ˈæmbər - 琥珀;琥珀色
 bedrock - ˈbedrɑːk - (地质)基岩
 crest - krest - (山)顶,(浪)峰;(家族/城镇/机构)饰章,徽章;羽冠
 dit - dɪt - (摩尔斯电码)点,短音
+mackintosh - ˈmækɪntɑːʃ - 雨衣
+flask - flæsk - 烧瓶;长颈瓶
+ranger - ˈreɪndʒər - 护林员
+carbon - ˈkɑːrbən - 碳
+jupiter - ˈdʒuːpɪtər - 木星
 ```
