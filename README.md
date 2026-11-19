@@ -733,6 +733,7 @@ gemma - ˈdʒemə - 胞芽
 argon - ˈɑːrɡɑːn - 氩
 carbon - ˈkɑːrbən - 碳
 hydrogen - ˈhaɪdrədʒən - 氢
+neon - ˈniːɑːn - 氖;霓虹灯
 alphabet - ˈælfəbet - 字母表
 llama - ˈlɑːmə - 羊驼
 prompt - prɒmpt - (给演员的)提示台词
